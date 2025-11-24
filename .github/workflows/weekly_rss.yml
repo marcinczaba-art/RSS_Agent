@@ -2,8 +2,8 @@ name: Weekly RSS Curation
 
 on:
   schedule:
-    - cron: "0 2 * * 1"   # every Monday at 02:00 UTC
-  workflow_dispatch:      # allow running manually
+    - cron: "0 2 * * 1"  # Monday 02:00 UTC
+  workflow_dispatch:
 
 jobs:
   run-pipeline:
@@ -23,28 +23,64 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # ----------------------------------------------------
+      # Archive the previous week's file
+      # ----------------------------------------------------
+      - name: Archive last week's curated markdown
+        run: |
+          mkdir -p archived
+          if [ -f curated_latest.md ]; then
+            DATE=$(date -u +"%Y%m%d")
+            cp curated_latest.md archived/curated_${DATE}.md
+          fi
+
+      # ----------------------------------------------------
+      # Run the pipeline
+      # ----------------------------------------------------
       - name: Run pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          echo "Running fetch_feeds..."
+          echo "Fetching feeds..."
           python scripts/fetch_feeds.py
           echo "Ranking..."
           python scripts/rank_articles.py
           echo "Generating markdown..."
           python scripts/generate_markdown.py
+          echo "Finished."
 
+      # ----------------------------------------------------
+      # Email the curated results
+      # ----------------------------------------------------
+      - name: Email results
+        if: success()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Weekly RSS Digest from RSS_Agent"
+          to: ${{ secrets.MAIL_RECIPIENT }}
+          from: RSS Agent <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Your weekly curated RSS digest is ready.
+
+            See the attached file for details.
+
+          attachments: curated_latest.md
+
+      # ----------------------------------------------------
+      # Commit updates
+      # ----------------------------------------------------
       - name: Commit curated results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Only commit if curated_latest.md or caches changed
           if [ -n "$(git status --porcelain)" ]; then
-            git add curated_latest.md cache/
+            git add curated_latest.md archived/ cache/
             git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push
           else
-            echo "No new articles. Nothing to commit."
+            echo "No new articles — nothing to commit."
           fi
-
