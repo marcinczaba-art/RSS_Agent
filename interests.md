@@ -1,0 +1,31 @@
+Base interests:
+- Microbial oceanography
+- Systems biology
+- Prochlorococcus
+- Synechococcus
+- Marine bacteria
+- Reinforcement Learning
+- Agent-based models
+- Flux Balance Analysis
+- Biogeochemistry
+- Flow Cytometry
+- Nutrient dynamics
+- Diel cycles
+- Particle export
+- Climate Change
+- Ecological thermodynamics
+- Thermodynamics of metabolism
+- Maximum Entropy Production
+- Microbial interactions
+- Microbiome
+- Ecological Theory
+- Constraint-based modeling
+- Stoichiometric models of metabolism
+- Genome-scale metabolic models
+- Nutrient uptake
+- Metabolite secretion
+- Cell mortality
+- Microbial thermal acclimation and adaptation
+- Photosynthesis
+
+
