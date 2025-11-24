@@ -1,5 +1,8 @@
 name: Weekly RSS Curation
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 2 * * 1"  # Monday 02:00 UTC
@@ -73,14 +76,20 @@ jobs:
       # ----------------------------------------------------
       # Commit updates
       # ----------------------------------------------------
-      - name: Commit curated results
+      - name: Configure git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/jrcasey/RSS_Agent.git
           if [ -n "$(git status --porcelain)" ]; then
             git add output/curated_latest.md archived/ cache/
             git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-            git push
+            git push origin HEAD:main
           else
             echo "No new articles — nothing to commit."
           fi
