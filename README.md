@@ -16,7 +16,7 @@ RSS_Agent is an automated weekly RSS reader and article ranking system designed 
 ## Installation
 
 ```bash
-git clone https://github.com/YOURNAME/RSS_Agent
+git clone https://github.com/jrcasey/RSS_Agent
 cd RSS_Agent
 pip install -r requirements.txt
 ```

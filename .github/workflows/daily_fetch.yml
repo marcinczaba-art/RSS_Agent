@@ -1,0 +1,60 @@
+name: Daily RSS Fetch
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # runs daily at 07:00 JST (22 UTC)
+  workflow_dispatch:        # optional manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch_only:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the feed fetch script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/fetch_feeds.py
+
+      # ----------------------------------------------------
+      # Commit updates
+      # ----------------------------------------------------
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/jrcasey/RSS_Agent.git
+          if [ -n "$(git status --porcelain)" ]; then
+            git add cache/raw_feeds.json cache/seen_ids.txt
+            git commit -m "Daily RSS fetch: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push origin HEAD:main
+          else
+            echo "No new articles — nothing to commit."
+          fi
+
+      - name: Commit updated cache
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add cache/
+          git commit -m "Daily fetch update" || echo "No changes to commit"
+          git push
+
