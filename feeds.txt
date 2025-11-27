@@ -47,3 +47,4 @@ https://www.nature.com/subjects/computational-biology-and-bioinformatics.rss
 http://feeds.nature.com/nmicrobiol/rss/current
 http://feeds.nature.com/nrmicro/rss/current
 http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1939-5590
+https://os.copernicus.org/xml/rss2_0.xml

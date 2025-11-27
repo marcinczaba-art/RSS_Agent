@@ -1,17 +1,17 @@
 # RSS_Agent
 
-RSS_Agent is an automated weekly RSS reader and article ranking system designed for microbial oceanography, biogeochemistry, systems biology, and computational biology. It fetches articles, ranks them using an LLM, filters top results, archives previous weeks, and emails you a curated list.
+RSS_Agent is an automated weekly RSS reader and article ranking system that I put together for my own interests. I was tired to leafing through hundreds of articles daily from all of the journals I follow, and thought a LLM would do as good a job as my tired eyes. Probably others have done this as well but I couldn't find anything. My interests are in microbial oceanography, biogeochemistry, systems biology, and computational biology, but you can easily change the prompt to whatever float your boat. It fetches articles, ranks them using an LLM, filters top results, archives previous weeks, and emails you a curated list. I also have a local `launchctl` script to fetch results to my Obsidian Vault on Monday mornings for coffee reading. 
 
 ## Features
 
 - Fetches articles from RSS/Atom feeds listed in `feeds.txt`
 - Prevents re-processing by storing previously-seen article IDs in `cache/seen_ids.json`
-- Combines title + abstract (`content`) for ranking
-- Filters results by threshold or top N
+- Combines title + abstract (`content`) for ranking. The agent comes up with a score for how related an article is to my various interests. Black Magic 🪄🎩
+- Filters results by score threshold or top N results (I set a limit because keeping up with the literature is a marathon, not a sprint)
 - Outputs weekly results in `curated_latest.md`
 - Automatically archives last week’s results as `curated_YYYYMMDD.md`
 - Automatically emails weekly curated results
-- Fully automated via GitHub Actions
+- Fully automated via GitHub Actions (and launchd if you want)
 
 ## Installation
 
@@ -19,14 +19,6 @@ RSS_Agent is an automated weekly RSS reader and article ranking system designed 
 git clone https://github.com/jrcasey/RSS_Agent
 cd RSS_Agent
 pip install -r requirements.txt
-```
-
-## Setup
-
-Create the required directories:
-
-```bash
-mkdir -p cache
 ```
 
 Create a `feeds.txt` file in the project root, one feed URL per line.
@@ -53,15 +45,11 @@ For Gmail:
 3. Create a new app password  
 4. Use that password as `SMTP_PASS`
 
-## Running Manually
-
-```bash
-python scripts/run_all.py
-```
+For other clients: idk sorry!
 
 ## Automating with GitHub Actions
 
-Two workflow files (`.github/workflows/rss_agent.yml` and `.github/workflows/daily_fetch.yml`) are provided. This is done to avoid missing articles that exceed the limit for a feed.
+Two workflow files (`.github/workflows/rss_agent.yml` and `.github/workflows/daily_fetch.yml`) are provided. The daily frequency is there to avoid missing articles that exceed the limit for a feed.
 
 Daily:
 
@@ -92,3 +80,9 @@ Ensure you configure repository secrets before enabling the workflow.
 ## License
 
 MIT
+
+## ToDo's
+- [ ] Add some more keys for retrieving abstracts from different feeds. They all seem to have their own peculiarities! 
+- [ ] Put my interests in some text file in the root to make it easier for others to customize their own agents. Probably some better prompt engineering would be warranted as well 🫠
+- [ ] Add journal names to `feeds.txt` with # comments on their own lines.
+
