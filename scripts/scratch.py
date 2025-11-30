@@ -1,5 +1,6 @@
 import feedparser
 import json
+import os
 
 # Explore an RSS feed to find where abstracts are located. We will use this later to refine the fetch_feeds.py script.
 feed_url = "https://connect.biorxiv.org/biorxiv_xml.php?subject=systems_biology"
