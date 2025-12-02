@@ -1,2 +1,5 @@
 .DS_Store
 
+# The ranked_articles.json file is very large
+cache/ranked_articles.json
+
