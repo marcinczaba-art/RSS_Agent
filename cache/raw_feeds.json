@@ -4048,5 +4048,323 @@
     "title": "Optimal Field Sampling Framework for Disease Surveillance of Clonally Propagated Plants",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.09.693344v1?rss=1",
     "content": "Vegetatively propagated crops are vulnerable to pathogen accumulation, yet, surveillance strategies often fail to capture the interplay between local infection dynamics, spatial dispersal, and propagation practices. We develop a spatially explicit delay differential compartmental model that integrates within-farm transmission, between-farm dispersal, and cutting-based propagation. Analytical results demonstrate that the number of infected individuals increases sharply after the first replanting cycle due to latent infections in planting material. Embedding the model into a decision-theoretic sampling framework reveals a nonlinear relationship between incidence and sampling effort. At epidemic onset, the required sampling intensity is higher than that at moderate to high incidence levels. Simulation experiments demonstrate that adaptive sequential designs can reduce survey costs by up to 40% while maintaining detection probability, and spatial interpolation of incidence improves outbreak delineation compared to uniform sampling. These findings highlight that effective early detection in clonal crops requires intensified sampling during low-incidence phases, complemented by spatially targeted surveys. The coupled dynamical-statistical framework thus provides theoretical insights and operational tools for optimizing surveillance, enhancing outbreak detection, and guiding resource allocation in plant health programs."
+  },
+  {
+    "id": "de0965430b56ee07",
+    "title": "Bistability in the regulatory system of the intrinsic apoptotic pathway arising from the Bax and Bcl-xL interactions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 13 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Ruslan M. Timchenko, Mikhail A. Panteleev</p>"
+  },
+  {
+    "id": "0d6d94b9e1cac2ce",
+    "title": "Microbial quality of beef tripe (mogodu) sampled from butcheries around Gaborone, Botswana",
+    "link": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaf141/8379423?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Beef tripe is a traditional delicacy in Botswana and many African communities. Despite its popularity and nutritional value, tripe remains highly perishable and prone to microbial contamination due to its origin in the bovine gastrointestinal system and potential exposure during processing. This study assessed the microbial quality of beef tripe samples collected from 18 butcheries in Gaborone, Botswana, including both microbial enumeration and species-level identification. The results revealed a high microbial load across all samples, with aerobic plate counts exceeding 5 log CFU/g in some cases. Total coliforms, including <span style=\"font-style: italic;\">Escherichia coli</span>, were also prevalent. Molecular identification using 16S rRNA gene sequencing uncovered a diverse bacterial community dominated by <span style=\"font-style: italic;\">Aeromonas veronii</span> (8.25%), <span style=\"font-style: italic;\">E. coli</span> (13.54%), <span style=\"font-style: italic;\">Klebsiella pneumonia</span> (8.25%) and <span style=\"font-style: italic;\">Kurthia gibsonii</span> (10.31%). Phylogenetic analysis revealed significant intra-genus diversity, further supported by <span style=\"font-style: italic;\">in silico</span> restriction fragment length polymorphism (RFLP) patterns. The presence of potential pathogens and spoilage organisms, even in refrigerated samples, underscores the need for stringent hygienic handling and public education on proper preparation. The findings provide baseline microbial profiles for tripe in Botswana and stress the importance of integrating molecular diagnostics into routine food safety monitoring.</span>"
+  },
+  {
+    "id": "cb5f55fa1e5674db",
+    "title": "ECOSTRESS Evapotranspiration Estimates Across Temporal and Spatial Scales in Arid and Semi\u2010Arid Southern Arizona, USA",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009141?af=R",
+    "content": "Abstract\nEvapotranspiration (ET) is the largest outgoing water flux in the hydrologic cycle but the most difficult component to quantify. In arid and semi\u2010arid regions, ET can be up to 99% of precipitation and thus critical for land and water managers to quantify accurately. We evaluate ECOSTRESS ET at various temporal scales in the arid and semi\u2010arid region of southern Arizona for 2019\u20132022 including all four seasons annually and using in situ observations from six eddy covariance flux towers. Our results demonstrate that ECOSTRESS ET estimates have the highest accuracy at seasonal (R2\u00a0=\u00a00.61, RMSE\u00a0=\u00a00.76, p\u2010value\u00a0<\u00a00.05) and annual (R2\u00a0=\u00a00.77, RMSE\u00a0=\u00a00.42, p\u00a0<\u00a00.05) temporal scales, indicating stronger performance over longer integration periods. Our results also indicate that OpenET estimates more closely align with in situ data trends compared with ECOSTRESS ET. Furthermore, this study demonstrates locally\u2010adjusted ECOSTRESS ET estimates by integrating Sentinel\u20102A spectral indices. The locally\u2010adjusted ECOSTRESS ET estimates perform well for the arid and semi\u2010arid southern Arizona (improving R2 from 0.28 to 0.85) highlighting the need for site\u2010specific and finer spatial resolution data inputs for estimating ET in these challenging environments. Enhanced accuracy of ET measurements enables land and water managers to make more informed decisions regarding limited natural resources and conservation and deepen their understanding of hydrologic dynamics in regions where ET dominates the water balance."
+  },
+  {
+    "id": "78a12d9e40e26fbe",
+    "title": "Enhanced Prescription of Soil Organic and Mineral Content in the ORCHIDEE LSM to Better Simulate Soil Temperatures: Application at Nine High\u2010Latitude GEM and FLUXNET Sites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG008776?af=R",
+    "content": "Abstract\nOver the past two decades, numerous studies have emphasized the importance of including organic matter (OM) in land surface models (LSMs) to accurately represent soil thermal and hydrological properties. This is particularly relevant in Arctic regions, where organic\u2010rich soils are widespread. Consequently, most LSMs incorporate parameterizations that account for OM effects, although these implementations are often simplified. Recent advancements in global soil data sets now enable more precise modeling of soil properties by providing detailed inputs for soil composition and physical characteristics. This study focuses on the refinement of the representation of soil organic and mineral content and the revision of the parameterizations of heat capacity, thermal conductivity, and porosity in the ORCHIDEE LSM, using data from the SoilGrids 250m v2.0 database. The updated model is evaluated across multiple Arctic and boreal sites and compared against two earlier versions: (a) a Bulk version that neglects OM effects on the thermal processes and (b) a simplified version with a basic OM prescription. Results show that incorporating OM into thermal processes modeling significantly improves soil temperature simulations, particularly under the soil surface in the critical zone. For some sites, root mean square errors (RMSE) are reduced by up to 50% compared to the Bulk version, especially during the snow\u2010free summer months. These findings highlight the value of high\u2010resolution soil data sets, such as SoilGrids, for improving simulations of thermal dynamics in carbon\u2010rich Arctic soils."
+  },
+  {
+    "id": "8bb0b6989e8d2411",
+    "title": "Significant Enhancement of the Carbon Sink in the Vegetation Ecosystem in Southern China: Re\u2010Evaluation Based on an Improved Three\u2010Dimensional Online Coupled Weather\u2010Biosphere Model (WRF\u2010VPRM)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG008940?af=R",
+    "content": "Abstract\nTerrestrial ecosystems significantly mitigate atmospheric CO2, yet substantial uncertainties remain in quantifying regional carbon source/sink dynamics. This study optimized the photosynthesis and respiration parameters in the Vegetation Photosynthesis and Respiration Model (VPRM) using net ecosystem exchange (NEE) data from evergreen forests and tree\u2010crop mixed ecosystems in Southern China. To improve the midday NEE simulation, a vapor pressure deficit (VPD)\u2010based parameterization scheme (VPRM_k) was developed to adjust half\u2010saturation light intensity (PAR0). Subsequently, the VPRM_k was incorporated into the Weather Research and Forecasting model (WRF) coupled with VPRM (WRF\u2010VPRM) to assess the terrestrial ecosystem fluxes from 2013 to 2015. The optimized parameters (VPRM_opt) outperformed defaults (VPRM_default) in simulating NEE during both the dry and wet seasons but overestimated midday peaks by \u223c25%. The simulation using the VPRM_k reduced this overestimation to 14.08% (dry season) and 9.08% (wet season), yielding mean daytime NEE biases of 0.13 and 0.01\u00a0\u03bcmol\u00b7m\u22122\u00b7s\u22121, respectively. The regional mean annual NEE was \u22121.44\u00a0\u03bcmol\u00b7m\u22122\u00b7s\u22121 during 2013\u20132015, and the carbon sink was strongest in summer (\u22122.91\u00a0\u03bcmol\u00b7m\u22122\u00b7s\u22121) and weakest in winter (\u22120.10\u00a0\u03bcmol\u00b7m\u22122\u00b7s\u22121). Primary sink centers were located in western Guangdong and its border with Guangxi, while source areas were clustered at the Guizhou\u2010Hunan\u2010Guangxi junction. During 2013\u20132015, the mean annual terrestrial ecosystem carbon sink in Southern China was \u22120.53 Pg C\u00a0yr\u22121, which was 179% higher than the main global flux inversion products (\u22120.19 Pg C\u00a0yr\u22121). These model results suggest deeper investigations into the carbon cycle in this region."
+  },
+  {
+    "id": "64a6269e26be8220",
+    "title": "Cross\u2010Sectional Coupling Between Salinity and Sediment Gradients Modulates Estuarine Lateral Circulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC022205?af=R",
+    "content": "Abstract\nIn turbid estuaries, salinity\u2010 and sediment\u2010induced density gradients (SalDG and SedDG) jointly influence lateral circulation by modulating baroclinic forcing and turbulence. While the role of SalDG is well established, the contribution of SedDG remains underexplored. Using cross\u2010sectional modeling in an idealized estuary that explicitly resolves both the lateral \u03c1ysed $\\left({\\rho }_{y}^{\\text{sed}}\\right)$ and vertical \u03c1zsed $\\left({\\rho }_{z}^{\\text{sed}}\\right)$ components of SedDG, we show that SalDG\u2013SedDG coupling exerts a context\u2010dependent influence on lateral circulation. The net circulation response, across a range of hydrodynamic, sedimentary, and bathymetric conditions, reflects the competition between: (a) enhancing mechanisms, including strengthened lateral baroclinic forcing and reinforced vertical stratification; and (b) suppressive mechanisms, arising from opposition between \u03c1ysal ${\\rho }_{y}^{\\text{sal}}$ and \u03c1ysed ${\\rho }_{y}^{\\text{sed}}$ during ebb due to asymmetric differential advection, as well as from circulation\u2010induced nonlinear feedbacks. These feedbacks, manifested near slack tides as both the intensification and extended persistence of counteracting \u03c1ysed ${\\rho }_{y}^{\\text{sed}}$ and the destabilization of \u03c1zsed ${\\rho }_{z}^{\\text{sed}}$, can suppress circulation even under otherwise favorable conditions. With stronger SalDG under fixed tidal forcing, SalDG\u2013SedDG interactions cross a threshold, triggering a regime shift in which the circulation response transitions from enhancement to suppression. This study provides the first mechanistic explanation for the role of SalDG\u2013SedDG coupling in estuarine lateral dynamics and highlights the importance of incorporating such interactions into estuarine models to improve predictions of material transport in turbid environments."
+  },
+  {
+    "id": "563e11b7738de3fa",
+    "title": "Underestimating Carbon Export in Oligotrophic Ocean: Evidence From Transparent Exopolymer Particles in Western Pacific Seawaters",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022703?af=R",
+    "content": "Abstract\nOligotrophic ocean is generally characterized by lower primary productivity, which has traditionally been considered to result in reduced transport of particulate organic carbon (POC) to the deep ocean compared to high\u2010productivity regions. However, our findings challenge this paradigm based on studying transparent exopolymer particles (TEP) in the western tropical North Pacific (WTNP). This paper systematically examines the formation and distribution of TEP across the 0\u20132,000\u00a0m depth range in the WTNP, analyzes the influence of hydrodynamic factors on TEP dynamics, and investigates the role of Pelagibacter, a dominant bacterium in oligotrophic waters, in facilitating in situ TEP production. Despite low TEP concentrations in the water column (7.53\u201334.22\u00a0\u03bcg Xeq/L), the proportion of TEP\u2010C within POC remained stable with increasing depth. Furthermore, the vertical transport efficiency of POC in oligotrophic waters was significantly higher than in high\u2010productivity regions, indicating that TEP plays a crucial yet overlooked role in facilitating the deep transport of POC in oligotrophic environments. Given this unique promotion mechanism, we proposed that the amount of POC transported to the deep oligotrophic ocean has been underestimated by at least fivefold."
+  },
+  {
+    "id": "3b1e6e1ef934e31c",
+    "title": "Strong Year\u2010Round Variation in Circulation and Heat Transport in a Proglacial Southwest Greenland Fjord",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022753?af=R",
+    "content": "Abstract\nGreenland's glacial fjords serve as pathways for the transport of heat and freshwater between the continental shelf and the outlet glaciers of the Greenland Ice Sheet. Despite increasing attention from the research community, seasonal studies in Greenland fjords remain scarce. This is especially true for near\u2010surface measurements. Here, we present year\u2010round, near\u2010full water column velocity observations and water mass data in Nuup Kangerlua, a glacial fjord in southwest Greenland. In July, a strong exchange flow is present in the upper 200\u00a0m, coinciding with the presence of subglacial discharge waters in the upper 10\u201350\u00a0m. Fjord circulation remains active throughout the year. Net heat transport toward the glaciers is most pronounced in the glacial melt domain (upper 150\u00a0m) in summer, while the heat transport occurs mostly in deeper layers in the winter months. Episodic dense coastal inflows renew the deep water in the fjord and can profoundly increase or decrease fjord water temperatures depending on the timing and depth of the inflow. We estimate vertical diffusivity in deeper layers to be around 10\u22125 ${10}^{-5}$ m2s\u22121 ${\\mathrm{m}}^{2}{\\mathrm{s}}^{-1}$ during stagnant periods (i.e., when no inflows occur). This study underlines the importance of seasonal variations and episodic events in fjord current dynamics and associated heat transport as a potentially important control for the submarine melting of marine\u2010terminating glaciers."
+  },
+  {
+    "id": "e38858cde1ea8948",
+    "title": "Modulation of the Ocean Surface Skin Temperature and Heat Flux in the Presence of Strong SST Fronts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022713?af=R",
+    "content": "Abstract\nPrevious studies of air\u2010sea interactions over sharp oceanic fronts have suggested that it is the ocean that drives the atmosphere across sub\u2010mesoscale ocean fronts, but it is the atmosphere that drives the ocean at synoptic scales; the responsible mechanism, however, is still a matter of debate. This paper examines direct sea surface temperature (SST) measurements of the skin (SSTskin) and near\u2010surface SST (SSTdepth), and wind speeds measured during the Sub\u2010Mesoscale Ocean Dynamics Experiment (S\u2010MODE) along with derived bulk fluxes. We evaluate the modulation of the net heat flux, wind speed, and skin cooling across SST fronts and the ability of the COARE bulk flux algorithm to reproduce this variability. Bulk flux computations can be performed directly from a radiometric SSTskin, or more commonly, from the SSTdepth provided that the depth of the SST measurement is corrected for cool skin and diurnal warming effects. Both types of SST were measured during S\u2010MODE allowing for (a) an assessment of the importance of having a SSTskin for a direct flux evaluation in frontal regions, and (b) an evaluation of the accuracy of the cool skin and diurnal warming corrections within COARE for the indirect bulk flux computation. The ocean\u2010atmosphere feedback over the sampled S\u2010MODE submesoscale front suggested that the ocean was indeed forcing the atmosphere, mainly through the surface net heat losses, while the wind response to changes in SSTskin was irregular. Testing of the COARE algorithm suggested that indirect bulk fluxes had sufficient accuracy to close the heat budget over the front."
+  },
+  {
+    "id": "6443dbdc98f4f88c",
+    "title": "A Biogeochemical Model Intercomparison for the Eastern Bering Sea Shelf",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022634?af=R",
+    "content": "Abstract\nUncertainty related to biogeochemical model structure\u2014the equations, parameters, and variables used to simulate lower trophic level dynamics\u2014can contribute significantly to overall uncertainty of regional model predictions of living marine resources metrics such as primary production. This may be particularly true in shallow coastal regions, where there is growing interest in using these types of regional models to inform ecosystem management. Here, we use a biogeochemical model intercomparison to analyze the divergence of ecosystem metrics across models for the eastern Bering Sea shelf region, and identify the biogeochemical processes that may lead to this spread. We run three biogeochemical models with varying complexity coupled to the same regional ocean model and run 30\u2010year hindcast simulations spanning 1990\u20132020. We find that the models differ widely in their spatial and temporal patterns of simulated primary production, and that these differences propagate to most of the higher trophic level metrics examined. We highlight structural elements that lead to these differences, including (a) representation of benthic processes and their role in retaining nitrogen on the shelf, (b) the role of grazing control on spring bloom timing, and (c) the role of zooplankton groups in supporting regenerated production through the summer months. Overall, we conclude that the potential uncertainty associated with even well\u2010established biogeochemical models may be high, particularly when these models are pushed beyond the original contexts under which they were developed. End users should strive to acknowledge and communicate this, particularly when using biogeochemical model output in management contexts."
+  },
+  {
+    "id": "5cadfe09756aa268",
+    "title": "Biophysical simulation enables segmentation and nervous system atlas mapping for image first spatial omics",
+    "link": "https://www.nature.com/articles/s41540-025-00627-6",
+    "content": ""
+  },
+  {
+    "id": "87a5d2c3077a4602",
+    "title": "Integrative molecular\u2013radiopathomic characterization of AIRE-driven immune subtypes in bladder cancer",
+    "link": "https://www.nature.com/articles/s41746-025-02091-2",
+    "content": ""
+  },
+  {
+    "id": "841fca79818e3545",
+    "title": "AI modeling photoplethysmography to electrocardiography useful for predicting cardiovascular disease",
+    "link": "https://www.nature.com/articles/s41746-025-02228-3",
+    "content": ""
+  },
+  {
+    "id": "1e1a4c133f644aa4",
+    "title": "Detection of diabetic retinopathy using multicolor image by multimodal network incorporating information bottleneck (MNIIB)",
+    "link": "https://www.nature.com/articles/s41598-025-31526-9",
+    "content": ""
+  },
+  {
+    "id": "dcb94d819b59ce35",
+    "title": "Entropy measures based on Nirmala coindices for silicon carbide molecular graphs",
+    "link": "https://www.nature.com/articles/s41598-025-31388-1",
+    "content": ""
+  },
+  {
+    "id": "748803412642fc85",
+    "title": "Semi-inductive dataset construction and framework optimization for practical drug target interaction prediction with ScopeDTI",
+    "link": "https://www.nature.com/articles/s41467-025-66311-9",
+    "content": ""
+  },
+  {
+    "id": "df8de728989e401e",
+    "title": "Reshaping reservoirs with unsupervised Hebbian adaptation",
+    "link": "https://www.nature.com/articles/s41467-025-67137-1",
+    "content": ""
+  },
+  {
+    "id": "f04c92a54affdb7f",
+    "title": "FastCCC: a permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies",
+    "link": "https://www.nature.com/articles/s41467-025-66272-z",
+    "content": ""
+  },
+  {
+    "id": "b830687dfefdefe6",
+    "title": "Enhanced PAM50 subtyping of breast cancer implemented in the PCAPAM50 R package",
+    "link": "https://www.nature.com/articles/s41598-025-30752-5",
+    "content": ""
+  },
+  {
+    "id": "47e4214093875927",
+    "title": "Leveraging network motifs to improve artificial neural networks",
+    "link": "https://www.nature.com/articles/s41467-025-66533-x",
+    "content": ""
+  },
+  {
+    "id": "1e547aa50dff21d0",
+    "title": "Can we infer excitation-inhibition balance from the spectrum of population activity?",
+    "link": "https://www.nature.com/articles/s42003-025-09315-x",
+    "content": ""
+  },
+  {
+    "id": "926baf7a210bf9bb",
+    "title": "Methodological guidance on implementing propensity score matching in observational studies of kidney transplantation",
+    "link": "https://www.nature.com/articles/s41598-025-31596-9",
+    "content": ""
+  },
+  {
+    "id": "d4ddd93bac866c7b",
+    "title": "Protein-nucleic acid language model-assisted design of precise and compact adenine base editor",
+    "link": "https://www.nature.com/articles/s41467-025-65311-z",
+    "content": ""
+  },
+  {
+    "id": "5fd48a59f2edf489",
+    "title": "Fusion of EEG feature extraction and CNN-MSTA transformer emotion recognition classification model",
+    "link": "https://www.nature.com/articles/s41598-025-28470-z",
+    "content": ""
+  },
+  {
+    "id": "c9892faa5c595b86",
+    "title": "Multi-phase deep learning framework with Multiscale Adaptive Swin Transformer and embedding attention for precision lung nodule detection and classification",
+    "link": "https://www.nature.com/articles/s41598-025-31147-2",
+    "content": ""
+  },
+  {
+    "id": "fef5ee53a9ef1e22",
+    "title": "Automation and machine learning drive rapid optimization of isoprenol production in Pseudomonas putida",
+    "link": "https://www.nature.com/articles/s41467-025-66304-8",
+    "content": ""
+  },
+  {
+    "id": "1cd9b85a516b38f9",
+    "title": "Challenges and opportunities for oncology drug repurposing informed by synthetic lethality",
+    "link": "https://www.nature.com/articles/s41540-025-00618-7",
+    "content": ""
+  },
+  {
+    "id": "88abbdee5e91068a",
+    "title": "Prevalence and stable acquisition of biogenic amine-synthesizing genes in lactic acid bacteria across diverse niches: implications for food safety and human health",
+    "link": "https://www.nature.com/articles/s41538-025-00667-6",
+    "content": ""
+  },
+  {
+    "id": "fa60740fe661e4fc",
+    "title": "Optimizing crop clustering to minimize pathogen invasion in agriculture",
+    "link": "https://www.nature.com/articles/s41598-025-30635-9",
+    "content": ""
+  },
+  {
+    "id": "0ac99932e416ad36",
+    "title": "E2F1-mediated PKMYT1 upregulation promotes prostate cancer progression by inhibiting the PPAR signaling pathway",
+    "link": "https://www.nature.com/articles/s41598-025-32218-0",
+    "content": ""
+  },
+  {
+    "id": "4fa844746e1cfd31",
+    "title": "Deep learning-enabled accurate assessment of gait impairments in Parkinson\u2019s disease using smartphone videos",
+    "link": "https://www.nature.com/articles/s41746-025-02150-8",
+    "content": ""
+  },
+  {
+    "id": "f556125a6bdd3f83",
+    "title": "Computational insights into a protease inhibitor from Streptomyces globosus VITSMAB-2 molecular docking and dynamics simulations against SARS-CoV-2 main protease",
+    "link": "https://www.nature.com/articles/s41598-025-31329-y",
+    "content": ""
+  },
+  {
+    "id": "632854411da4eb61",
+    "title": "AI-powered models for overcrowding prediction at TUMS hospitals",
+    "link": "https://www.nature.com/articles/s41598-025-30426-2",
+    "content": ""
+  },
+  {
+    "id": "9d93ecb40f17ed81",
+    "title": "Synthesis and antidiabetic evaluation of novel Tetrahydroacridine derivatives with computational insights",
+    "link": "https://www.nature.com/articles/s41598-025-28702-2",
+    "content": ""
+  },
+  {
+    "id": "ab90f00c1e771b0d",
+    "title": "Structural variability of multifunctional proteins indicates frequent stochastic evolution of protein oligomers",
+    "link": "https://www.nature.com/articles/s42003-025-09183-5",
+    "content": ""
+  },
+  {
+    "id": "992846876ad54240",
+    "title": "Automated DFU detection through GA-selected CNN ensemble with Grad-CAM interpretability",
+    "link": "https://www.nature.com/articles/s41598-025-30532-1",
+    "content": ""
+  },
+  {
+    "id": "fe92ae5750923d0e",
+    "title": "Interpretable wrapper-based machine learning framework for predicting patellofemoral pain syndrome using minimal clinical tests",
+    "link": "https://www.nature.com/articles/s41598-025-31362-x",
+    "content": ""
+  },
+  {
+    "id": "28a3ed79dda5e385",
+    "title": "Multi-task learning identifies shared genetic risk for late-onset epilepsy and alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/s41598-025-32329-8",
+    "content": ""
+  },
+  {
+    "id": "6d764c6f9ac0c752",
+    "title": "Cost-effective non-additive GWAS across 2329 diseases in 500,349 individuals",
+    "link": "https://www.nature.com/articles/s41467-025-67277-4",
+    "content": ""
+  },
+  {
+    "id": "d064041e3e377300",
+    "title": "Flow variability and macroinvertebrates jointly regulate stream periphyton and metabolism: Insights from experimental stream mesocosms",
+    "link": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70285?af=R",
+    "content": "Abstract\nClimate change profoundly alters riverine flow regimes and community composition, affecting key ecosystem functions. We used an experimental mesocosm approach to examine how gradual flow velocity reduction (Experiment 1) and flushing events (Experiment 2) influence periphyton community composition and metabolism, with and without a macroinvertebrate assemblage. We prepared eight stream mesocosms with pre\u2010grown periphyton, half including macroinvertebrates. Six mesocosms gradually transitioned from high (0.25\u2009m\u2009s\u22121) to low flow velocity (0.05\u2009m\u2009s\u22121), followed by three flushing events of increasing frequency (i.e., reducing time between events) and same intensity, raising from 0.05 to 0.25\u2009m\u2009s\u22121 for 6\u2009h before returning to base flow. Two control mesocosms (one with and one without macroinvertebrates) remained at constant flow (0.1\u2009m\u2009s\u22121) throughout the experiment. We measured algal biovolume, taxonomic composition, and metabolic rates (gross primary production; ecosystem respiration; net ecosystem production) over time. Macroinvertebrates altered community composition and reduced algal biovolume, with stronger effects at low flow. Flow reduction had scale\u2010dependent effects: at the chamber scale it lowered periphyton gross primary production and net ecosystem production, while at the whole\u2010mesocosm scale it decreased ecosystem respiration more than production, increasing net ecosystem production. Flushing events decreased algal biovolume, but enhanced periphyton autotrophy, though this effect weakened with repeated disturbance. Macroinvertebrate assemblages, while reducing total algal biovolume, enhanced the resistance of metabolic responses to flushing. Together, these results show that hydrological variability and macroinvertebrate presence jointly regulate periphyton structure and function and provide mechanistic insight into the processes controlling carbon cycling in running waters."
+  },
+  {
+    "id": "1a434cffb5b551ec",
+    "title": "Assessing the passive dispersal of benthic foraminifera through environmental DNA",
+    "link": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70294?af=R",
+    "content": "Abstract\nPassive dispersal plays a key role in the distribution of marine benthic species that have reduced mobility and lack planktonic life stages. However, its qualitative and quantitative importance, as well as the ecological and environmental factors responsible for it, remain largely unknown. Here, we address these issues by analyzing the dispersal of benthic foraminifera using environmental DNA (eDNA) from the water column and sediment samples collected at 24 stations in the Nordic Seas. Our results show that water eDNA contains large amounts of benthic foraminiferal DNA. Approximately 41.5% of the foraminiferal Amplicon Sequence Variants (ASVs) found in the sediment were also present in the water samples, with over 22.1% shared among samples from the ocean surface, at 100\u2009m water depth, and in the sediment. However, not all benthic foraminiferal taxa were equally represented in the water samples. The calcareous species (mainly rotaliids) are more frequently observed in surface water. Our study suggests that some benthic foraminifera are likely dispersed over long\u2010distance transport, traversing distances of hundreds of kilometers. Dispersal patterns depend on species' habitat and water circulation patterns, with shallow\u2010water species being preferentially transported by surface water currents and deep\u2010sea species primarily carried by bottom\u2010water currents. This work highlights the importance of passive dispersal in shaping the biogeography of benthic protists and underlines the value of eDNA metabarcoding for studying connectivity in marine ecosystems."
+  },
+  {
+    "id": "5df3a9d702bd751e",
+    "title": "Cancer pathway connectivity resolved by drug perturbation and RNA sequencing",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.11.692401v1?rss=1",
+    "content": "Pathway inhibitors are a backbone of cancer treatment. The configuration of pathway dependencies varies from tumour to tumour. Better treatment for individual patients could be designed if the pathway wiring were readily measurable. Here, we characterise the transcriptional responses of 116 lymphoma patient samples exposed to ten drug perturbations. We used factor analysis to decompose individual and shared drug effects, thereby generating a pathway connectivity map of chronic lymphocytic leukemia (CLL). The expression profiles of the major disease subgroups, defined by IGHV mutation status, became more similar to each other after BTK inhibition, consistent with B-cell receptor (BCR) signalling as a driver of their phenotypic difference. An even stronger convergence was observed with combined IRAK4 and BTK inhibition, indicating cooperation of BCR and toll-like receptor (TLR) signalling in CLL. We identified genetic aberrations (BRAF, TP53, deletion 17p, deletion 15q, trisomy 12) that modulated drug effects in CLL and constituted specific interaction patterns. IRAK4 inhibition effects depended on the presence of trisomy 12, a finding that suggests that the trisomy 12 driver event in CLL acts by gene dosage-dependent IRAK4 upregulation and amplification of the BCR/TLR cooperation. Our results highlight the potential of systematic drug perturbation assays with transcriptome readout to map pathway interconnectivity and functionally annotate tumour drivers."
+  },
+  {
+    "id": "9cbaa480fa8b6662",
+    "title": "The cytosolic PRMT5-CDK4 complex impairs cell cycle kinase signaling",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.11.693714v1?rss=1",
+    "content": "Both, protein arginine methyltransferases (PRMTs) and protein kinases are critical regulators of cellular processes and frequently dysregulated in malignancy. To systematically study the crosstalk of the two regulatory enzyme classes, we used parallel yeast two-hybrid matrix screening and defined 45 interactions connecting 4 PRMTs and 20 human kinases. The PRMT-kinase network revealed a strong association between PRMTs and cell cycle/mitogen-activated kinases. Notably, the PRMT5-CDK4 emerged as the most prominent functional cell cycle link through integrative data analyses of different high-throughput datasets. Mechanistic cell biological studies confirmed that the PRMT5-CDK4 complex localizes exclusively in the cytosol, where its formation was enhanced during a G1/S cell cycle block. This PRMT5 interaction modulated the CDK4-CCND3 and CDK4-CDKN2A interaction dynamics, irrespective of PRMT5's methyltransferase activity. Phospho-proteomic profiling demonstrated that PRMT5 overexpression functionally phenocopies the signaling effects of pharmacological CDK4 inhibition with Palbociclib. The findings establish a non-enzymatic regulatory role for PRMT5, proposing it functions as an inhibitory modulator of CDK4-driven oncogenic signaling."
+  },
+  {
+    "id": "1357c294d800ac3e",
+    "title": "Multi-omics analysis reveals vitamin D metabolism, hyper-IgE genes, and epithelial barrier dysfunction in hazelnut allergy",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.11.692994v1?rss=1",
+    "content": "Background: Hazelnut allergy is a major cause of food-induced anaphylaxis yet remains poorly defined at the molecular level. Objective: We aimed to identify molecular differences between individuals with primary hazelnut allergy and nonallergic controls by investigating a comprehensive spectrum of omics profiles in immune cells. Methods: We analysed DNA methylation, transcriptomic and proteomic profiles in hazelnut-stimulated and unstimulated immune cells. Results: Across analyses, we identified 80 differentially methylated signatures, 125 differentially expressed genes, and 11 differentially secreted proteins associated with hazelnut allergy. DNA methylation signatures were highly concordant between unstimulated and stimulated conditions, consistent with stable epigenetic remodelling. Key findings implicated ZNF341, associated with a rare monogenic hyper-IgE syndrome, and ARL2, both linked to STAT3-mediated IgE dysregulation. Additionally, we identified a differentially methylated region (DMR) overlapping the T Helper Type 2 Locus Control Region Associated RNA (TH2LCRR) in the cytokine gene cluster, suggesting an epigenetic mechanism contributing to IL-5 and IL-13 upregulation. Antigen stimulation was required to reveal hazelnut-specific transcriptional and proteomic signals. Integration of these data demonstrated that IL-5 expression could distinguish both groups. We identified signals in epithelial barrier genes of the gut and skin (TRIM31, TRIM40, CDSN), activation of the vitamin D pathway (CYP27B1, IL32), and nominate additional signals (PHACTR1, MFHAS1, SPRED2, GALNT5/GALNTL4, NSMCE1-DT) for follow-up. Conclusion: Our study confirms type-2 cytokines, FcEpsilonRI, and JAK-STAT signalling and uncovers novel links to monogenic hyper-IgE syndrome, activation of vitamin-D pathways, and gut/skin barrier genes, yielding a catalogue of candidate biomarkers for mechanistic studies and prospective validation."
+  },
+  {
+    "id": "38f3e34556be1b79",
+    "title": "DISCO-seq: 3D single-cell transcriptomics of intact biological systems",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.10.693352v1?rss=1",
+    "content": "Single-cell transcriptomics has transformed tissue analysis, yet current methods struggle to integrate whole-tissue 3D architecture. Conventional techniques restrict molecular profiling to pre-selected 2D sections, losing systemic context and introducing anatomical bias by sampling less than 0.001% of a whole organism. To overcome these challenges, we developed DISCO-seq, a tissue-clearing chemistry that enables superior RNA accessibility compared to fresh or fixed tissues. DISCO-seq integrates whole-organ or organism 3D imaging with both untargeted and targeted transcriptomics, yielding high-quality RNA from cleared tissues comparable to standard samples. We demonstrate its versatility by investigating tumor heterogeneity in a syngeneic glioblastoma mouse model, using 3D imaging to identify spatially distinct microenvironments and characterize their unique transcriptomic signatures. Moreover, DISCO-seq enabled unbiased, whole-body mapping of SARS-CoV-2 S1 protein deposition in mice, followed by transcriptomic profiling of spatially defined niches. By bridging mesoscale 3D imaging with single-cell transcriptomics, DISCO-seq establishes a paradigm for anatomically contextualized, hypothesis-free tissue interrogation."
+  },
+  {
+    "id": "65d0c867b171ebf4",
+    "title": "RhizoGrid: Illuminating Spatial Rhizosphere Dynamics",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.10.693536v1?rss=1",
+    "content": "The rhizosphere microbiome directly influences plant health and acclimation to extreme environments, yet plant-microbe interactions in the rhizosphere have proven complex and difficult to study. We present RhizoGrid, a new methodological framework that integrates a 3D-printed pot structure with spatial measurements of root structure, metabollite and taxonomy to detect links between metabolites and microbes along a soil-grown root system. The RhizoGrid identifies microhabitats hidden belowground. Using the food, forage, and bioenergy crop sorghum, we showcase how the RhizoGrid opens new frontiers for exploring the heterogeneity and complexity of interactions between root exudates and microbes in the rhizosphere."
+  },
+  {
+    "id": "4b453ec19bf239d7",
+    "title": "Scaling-up the production of recombinant EIT antigen by E. coli fermentation for a vaccine-preparation against EHEC for cattle",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.13.694097v1?rss=1",
+    "content": "Aims: This study aims to optimize and scale up the production of the chimeric antigen EIT through E. coli fed-batch fermentations. The approach seeks for simplicity and cost-effectiveness, considering EIT as a potential vaccine candidate against EHEC for cattle. Its ability to induce a humoral immune response has been recently verified in bovines in a proof-of-concept study. Methods and Results: An initial screening was conducted to select the optimal medium for EIT expression, using lactose for recombinant protein induction. M9 Minimal medium supplemented with yeast extract yielded the highest relative levels of EIT, as determined by Western blot analysis. E. coli cultures were subsequently grown in a stirred-tank bioreactor, and both biomass production and EIT expression were monitored. The process was reproducible across three independent fermentations, with all parameters being improved compared with shake-flask cultivations. Antigen recovery was achieved through thermal permeabilization, as the construction includes a periplasmic signal sequence. Overall, the process resulted in an average potential output of 350 doses per liter of fermented culture, while preserving the EIT antigenic capability, as confirmed by ELISA assays. Conclusion: The production of the recombinant EIT antigen was successfully scaled up using a stirred-tank bioreactor through a quite simple and cost-effective approach, achieving increased yields for supporting further studies and interventions."
+  },
+  {
+    "id": "d78b33f749e3493f",
+    "title": "Efagins evolved independently to target the enterococcal cell wall",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.13.693970v1?rss=1",
+    "content": "Enterococci are major causes of multidrug-resistant hospital infections, underscoring the need for new antibacterial strategies. Here, we describe a previously unrecognized inhibitor class, efagins (Enterococcus faecalis phage-related inhibitors). Efagins are intrinsic to E. faecalis, the most widely distributed generalist among enterococci, and are structurally reminiscent of phage tails yet show only distant evolutionary relatedness to known phages or phage-like elements. The 14.6-kb efagin gene cluster is highly conserved except for a tail fiber-like encoding region that varies across five distinct classes. These classes correlate with differences in the rhamnose-rich Epa cell wall polysaccharide, the efagin binding target as demonstrated by domain-swap experiments. We identified at least 20 E. faecalis epa genotypes, and the efagins characterized here inhibit strains representing 17 of them. Importantly, efagin activity extends beyond E. faecalis: they inhibit multiple enterococcal species, including lineages of vancomycin-resistant E. faecium, highlighting their potential as precision antibacterials."
+  },
+  {
+    "id": "97dacec95dbb4fc9",
+    "title": "Storage polymer polyhydroxybutyrate promotes recovery and limits phenotypic heterogeneity in regrowth from carbon starvation in Methylobacterium extorquens",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.12.690574v1?rss=1",
+    "content": "Bacteria in the wild often encounter long periods of starvation. Evolutionary adaptation to cycles of nutrient deficiency has led to metabolic and physiological strategies that prevent cell death and promote rapid recovery from starvation. A cellular factor shaping outcomes during carbon starvation is polyhydroxybutyrate (PHB), a widespread carbon polymer that helps maintain membrane integrity and promotes regrowth upon reintroduction to nutrients. The response to starvation is often highly heterogeneous across isogenic populations and confounded by environmental variables that mask underlying physiological mechanisms. Prior work has shown that hyper- or hypo-osmolarity greatly increases cell death, but little is known about how PHB and osmolarity jointly influence both population viability and the emergence of heterogeneity in periods of nutrient limitation. To investigate this, we subjected populations of Methylobacterium extorquens to carbon starvation across a range of osmolarities and analyzed the phenotypes of individuals regrowing from the combined stress. By resolving the distributions of key traits such as lag time and growth rate, we found that populations partition into subpopulations that appear either significantly or minimally impaired by the stresses presented. Osmolarity affected total survival, and surprisingly, populations maintained viability in ultra-pure water. PHB metabolism was beneficial for population viability across all conditions, and unexpectedly reduced the variance of populations in lag time and growth rate. These findings show that PHB aids survival and regrowth from starvation, and suggest that the restructuring of phenotypes in long-term stationary phase depends on PHB even though total osmotic sensitivity does not."
+  },
+  {
+    "id": "975f1dddd9a0666c",
+    "title": "Physicochemical and Antibacterial Evaluation of the methanol extract of Chrysobalanus icaco L. (Chrysobalanceae) Seed and Fractions",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.12.680370v1?rss=1",
+    "content": "The use of plants as antimicrobial agents has gained popularity recently due to the need to explore safer alternative means of combating bacterial infections. The seeds of C. icaco were evaluated for its physicochemical, phytochemical and antimicrobial properties. The pulverized seed was extracted using cold maceration. Standard methods were used to evaluate the physicochemical properties of the powdered drug and phytochemical content of the crude extract of the seeds of C. icaco. The crude methanol extract was partitioned into dichloromethane and aqueous fractions. The antibacterial evaluation of the crude extract and fractions were done using agar well diffusion method. The phytochemicals present in the methanol crude were saponins, tannins, flavonoids, reducing sugars, alkaloids, steroid, terpenoids and cardiac glycosides. The moisture content value was 6.37 %. The antimicrobial result revealed that DCM fraction showed the highest zone of inhibition against S. aureus, P. aeruginosa, S. typhi, and E. coli at a concentration of 100 mg/mL, 200 mg/mL, 100 mg/mL, 25 mg/mL and 200 mg/mL respectively when compared to the crude seed extract and aqueous fraction. The MIC of crude extract was 50 mg/ml against each bacteria. The MIC of DCM fraction was between 100 mg/ml and 50 mg/ml against each bacteria. The MIC of aqueous fraction between 200 mg/ml and 50 mg/ml against each bacteria. This study therefore suggest that the crude extract and dichloromethane fraction of the seed of C. icaco possess antibacterial activities again selected isolates."
+  },
+  {
+    "id": "c43cef2dec6a4a53",
+    "title": "Identification and characterization of host-modulating effectors encoded by the Cluster F1 mycobacteriophage NormanBulbieJr",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.12.693979v1?rss=1",
+    "content": "NormanBulbieJr (NBJ) is a temperate siphovirus isolated on the host Mycobacterium smegmatis mc2155 that encodes 102 gene products, 60 of which have no known function (NKF). Based on gene content, NBJ is classified as a Cluster F, Subcluster F1 phage and shares 70% of its encoded gene phamilies with Girr, another F1 mycobacteriophage that was recently analyzed in a genome-wide overexpression screen and found to encode 29 diverse gene products capable of inhibiting growth of M. smegmatis. Similar functional screens in other mycobacteriophages have uncovered a growing repertoire of diverse, phage-encoded bacterial growth inhibitors, providing prime candidates for dissecting novel bacterial-phage interactions. An arrayed overexpression library encoding all 102 genes was constructed and systematically screened using a plate-based cytotoxicity assay, identifying 29 genes that inhibit mycobacterial growth. Because mycobacteriophage genomes are also known to encode systems involved in phage-phage competition, we conducted additional phage defense assays for a subset of NBJ genes in our library. This analysis confirmed homotypic immunity by the predicted immunity repressor, and identified an additional gene involved in host defense against Cluster F phages and which was found to be critical for NBJ lysogen stability. Finally, we extended our analysis to explore the essentiality of all identified host-modulating genes in the NBJ life cycle, using CRISPR-enhanced recombineering to generate phage deletion mutants, revealing two host modulators that are critical for lytic growth. Conducted as part of the SEA-GENES undergraduate research consortium (Heller et al. 2024), this study adds to a growing functional genomics resource and provides new insights into the complex interactions between phage gene products and the mycobacterial host cell."
+  },
+  {
+    "id": "90c62063d59fa713",
+    "title": "Host species and body site equally impact microbiome structure between sympatric Atlantic sea cucumber species",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.12.694001v1?rss=1",
+    "content": "Sea cucumbers are key members in the marine ecosystem, food webs, and support valuable commercial fisheries, yet their microbiomes, which likely influence host health and function, are relatively understudied. There is specifically a paucity of microbiome studies of echinoderm coelomic fluid (CF), which is centrally involved in circulation, digestion, and immunity. This study analyzed the microbiomes of two sympatric holothurians (sea cucumbers), Leptosynapta tenuis, and Sclerodactyla briareus, found in coastal, temperate waters of the Northeast Atlantic. First, we found unexpectedly high levels (approaching 107 cells/ml) of prokaryotic-sized cells in the coelomic fluid of the sympatric sea star Asterias forbesi. Amplicon sequencing of the 16S rRNA gene revealed significant differences in alpha and beta diversity of sea cucumber microbiomes. This included differences in CF communities between the two sea cucumber species and among body sites--CF, epidermis, and gut--of S. briareus. Host and body sites explained roughly equal amounts of microbial community variation (22% and 27%, respectively). We identified particular taxa associated with differences in community composition, including enrichment of anaerobic taxa (e.g., Desulftobacterota) in gut samples and Proteobacteria (including Burkholderiales and Pseudomonadales) in epidermis samples. We also uncovered higher levels of Synechococcales cyanobacteria in CF relative to the gut, epidermis, and background seawater samples. CF is thought to exchange with surrounding seawater, so these results highlight an apparent selective retention of CF microbial communities. This work adds to our growing knowledge of echinoderm microbiomes and highlights the need for additional surveys of their microbiomes."
+  },
+  {
+    "id": "a91aea99246bc045",
+    "title": "Forests and woodlands resistant to drought revealed in remotely sensed foliar moisture content using probabilistic models",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.10.692240v1?rss=1",
+    "content": "Foliar moisture content (FMC) is of primary importance in many biological and ecological processes of forests and woodlands, including herbivory and fire dynamics. The role of FMC, which is the mass of moisture on a dry matter basis, in such processes is increasingly important due to changes in length and severity of climate extremes, like drought. Here we studied the sensitivity of forest and woodland FMC to climatic water balance, i.e. Standardised Precipitation and Evapotranspiration Index (SPEI), across five landscapes in temperate and sub-tropical south-eastern Australia. To do this we used copula-probabilistic modelling, including consideration of drought (i.e. SPEI) length. We used an FMC dataset over eight years of Sentinel-2 satellite reflectance (2015-2023), based on the inversion of a radiative transfer model at 20m resolution. We found the spatial variation of FMC within landscapes to be large and that the spatial variation in response to drought was very large, particularly within the more arid landscapes. The areas of lesser response to extreme drought are revealed to be drought resistant forests and woodlands that are potential climate refugia for animals, and natural breaks in the contiguity of fire fuels."
   }
 ]
