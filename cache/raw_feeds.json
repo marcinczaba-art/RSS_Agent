@@ -3736,5 +3736,221 @@
     "title": "Modeling assembly dynamics and stability of microbial communities",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.17.694811v1?rss=1",
     "content": "Predicting the species composition of microbial communities is a problem that has proven surprisingly difficult, including in fully controlled microbial systems in a lab setting. Few organisms are able to establish themselves in an community with no others, even if nutrients are provided. At the same time some species are observed to be unable to stably coexist with certain other species. We here present a model attempting to reduce the dynamics of community assembly to its most basic components, while preserving its salient features. The model deals not with abundances or densities of bacterial populations or resources, but only with their presence or absence. Similarly, only three types of discrete relationships between species are considered: species excluding each other, and mutualistic dependence on and production of nutrients in the form of exometabolites. Despite these simplifications, the model system still exhibits rich dynamics, including extinction cascades and emerging stability against invasion. We derive conditions for these to occur and compare our results with existing knowledge of microbial communities. Our results provide a novel approach for the theoretical study of microbial communities and their stability."
+  },
+  {
+    "id": "1a674767d8359997",
+    "title": "Stability-Driven Assembly Theory",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Dan Adler</p>"
+  },
+  {
+    "id": "6fc889f632f39aa2",
+    "title": "Methane Transport Pathways and Oxidation in a Minnesota Bog",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009408?af=R",
+    "content": "Abstract\nDespite the widely recognized importance of wetland CH4 emissions as a climate change feedback, simultaneous measurements of CH4 transport pathways and oxidation in a wetland are rare. Thus, these critical components of many CH4 models are poorly parameterized because of the lack of appropriate data. We measured plant CH4 transport and diffusion on two sampling dates in a Minnesota, USA, bog where a whole\u2010ecosystem manipulation experiment of temperature and atmospheric CO2 (SPRUCE) is occurring. We also used stable\u2010isotope methods to estimate CH4 oxidation rates. Plant CH4 transport was high in graminoids and, especially, the forb Maianthemum trifolium early in the growing season, while CH4 emissions from the trees Picea mariana and Larix laricina were minimal. Diffusive transport and CH4 oxidation rates were uniformly low. A prior study found low rates of episodic, large bubble CH4 ebullition in this bog. Despite large variation in plant and whole\u2010plot CH4 emissions, a substantial fraction of whole\u2010plot CH4 emissions could not be accounted for using a mass balance approach, which may be attributable to microbubble release from peat, although this requires further investigation. We compare our measured rates to two CH4 models that have been developed and tested at SPRUCE, both of which overestimate plant and diffusive CH4 transport in S1 Bog relative to our results. We emphasize the importance of enabling CH4 models to incorporate plant\u2010mediated CH4 transport that is species\u2010dependent and allowing plant species to dynamically change in response to climate change."
+  },
+  {
+    "id": "6fb2094028cfca5d",
+    "title": "AQUA\u2010Flux: An Inexpensive, Autonomous Floating Chamber for High\u2010Frequency, Long\u2010Term Monitoring of Greenhouse Gas Fluxes From Aquatic Ecosystems",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG008896?af=R",
+    "content": "Abstract\nInland waters are a major global source of greenhouse gas emissions. Quantifying aquatic emissions at high spatiotemporal resolution is critical for understanding their biophysical drivers, constraining the global carbon budget, and improving climate projections. Current floating chamber techniques rely on labor\u2010intensive manual sampling or expensive infrared greenhouse gas analyzers, which limit the spatial and temporal sampling frequency. Here, we present an improved, inexpensive autonomous floating chamber design: AQUA\u2010Flux (autochamber for quantifying and understanding aquatic fluxes), which can capture diffusive and ebullitive methane (CH4) and carbon dioxide (CO2) fluxes on small freshwater bodies at high frequency. A solar\u2010power system enables long\u2010term deployment. We have successfully tested 12 AQUA\u2010Flux systems for up to six months in two environmental extremes\u2014the Arctic tundra and Brazilian Amazon. Low\u2010cost sensors measure CH4 and CO2 concentrations within a closed chamber, and a linear actuator extends and retracts to vent the chamber headspace between flux measurements. Field\u2010based calibrations using an infrared gas analyzer indicate that these low\u2010cost sensors perform well, with average resolutions of 2\u20133\u00a0ppm for both CH4 and CO2. We also show that sensors can be field\u2010calibrated using discrete samples collected manually for laboratory analysis (gas chromatography), providing a lower\u2010cost calibration method. The AQUA\u2010Flux is well\u2010suited for water bodies with high fluxes. We include detailed assembly instructions to enable others to create and improve the design. By developing inexpensive open\u2010source tools, we aim to democratize greenhouse gas flux measurements and ultimately improve global estimates of fluxes from aquatic environments."
+  },
+  {
+    "id": "1eb2168b2c273db1",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.17410?af=R",
+    "content": "Cover Illustrations: The sympactric mussel (Gigantidas haimaensis) and snail (Phymorhynchus buccinoides) inhabit the Haima cold seep.\nPhoto Credit: Jun Tao."
+  },
+  {
+    "id": "c3803ad2fe2febf6",
+    "title": "Revisiting the Relationship Between Changes in Global\u2010Mean Surface Air Temperature and Sea Surface Temperature at the Last Glacial Maximum",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118083?af=R",
+    "content": "Abstract\nThe relationship between changes in surface air temperature and sea surface temperature is important for understanding past and future climate change. In this study, we use reconstructions and model simulations to investigate the ratio of global mean air versus sea surface temperature change (S) during the Last Glacial Maximum (LGM). The simulated S at the LGM is 1.97\u00a0\u00b1\u00a00.22 (1\u03c3), 44\u00a0\u00b1\u00a016% greater than under future warming, primarily due to the influence of elevated continental ice sheets. Results reveal that the glacial air\u2010sea cooling contrast is negatively related to the magnitude of sea surface cooling, consistent with a simple moist static energy theory. This relationship can be used to constrain S, further suggesting a median LGM surface cooling of \u22125.6\u00b0C. These results caution against the use of a fixed S under different climate background and have implications for paleotemperature reconstructions and climate projections."
+  },
+  {
+    "id": "9ce5692fb79e1792",
+    "title": "Global Survey of Whistler Mode Waves in the Earth's Magnetosheath Using THEMIS Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120404?af=R",
+    "content": "Abstract\nWhile it is known that whistler mode emissions are frequently detected in Earth's magnetosheath, their properties and dependence on solar wind conditions are not fully understood yet. In this study, we present the global distribution of whistler mode waves in the magnetosheath and their dependence on solar wind parameters, based on 7\u00a0years of data from three Time History of Events and Macroscale Interactions during Substorms (THEMIS) probes. Our findings reveal that whistler mode waves in magnetosheath peak near noon, spanning from 9 to 15 magnetic local times, with amplitudes reaching up to 100 pT. Furthermore, whistler mode wave amplitudes and occurrence rates are slightly larger on the dawnside than duskside. Additionally, whistler mode wave amplitudes tend to increase with increasing solar wind dynamic pressure and cone angle. These results provide valuable insights into the plasma and wave environment right upstream of Earth's magnetopause under various solar wind conditions."
+  },
+  {
+    "id": "982eee20f5fc1543",
+    "title": "Skillful Prediction of the Summer North Atlantic Oscillation: Opportunities From Circumglobal Waveguide Dynamics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118599?af=R",
+    "content": "Abstract\nThe Summer North Atlantic Oscillation (SNAO) is the dominant climate pattern that affects heatwaves and droughts across Europe and downstream over Asia. However, its seasonal prediction remains challenging. While recent studies have identified stratospheric pathways for improving SNAO prediction, the role of tropospheric wave dynamics remains unclear. Using a latest\u2010generation large\u2010ensemble seasonal forecasting system, we find that the model exhibits limited SNAO prediction skill and underestimates downstream climate impacts. These limitations are associated with deficiencies in circumglobal waveguide dynamics. Subsampling ensemble members that best capture circulation anomalies near circumglobal teleconnection centers or tropical/monsoon rainfall that forces the teleconnection is accompanied by significantly improved SNAO prediction. Furthermore, deficiencies in the model circumglobal waveguide, particularly over the Mediterranean and North Atlantic with underestimated background zonal winds and erroneous curvature, may disrupt wave propagation. Refining these dynamical features could improve teleconnection representation and SNAO prediction, aiding summer climate risk mitigation."
+  },
+  {
+    "id": "3737f75b08bc583c",
+    "title": "Ocean Outgassing of Methyl Chloroform as an Underestimated Source of Emission",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118618?af=R",
+    "content": "Abstract\nMethyl chloroform (MCF) is an ozone\u2010depleting substance used as an industrial solvent. Its primary sink is oxidation by the hydroxyl radical (OH), making it a key tracer for estimating atmospheric oxidative capacity. Following Montreal Protocol regulations, MCF emissions declined rapidly after the 1990s. However, the recent atmospheric MCF decay suggests persistent emissions and/or declining OH (contradicting chemistry\u2010climate models projecting increasing or stable OH). The air\u2010sea exchange of MCF has been poorly constrained due to limited observations and simplified ocean representations. We simulate oceanic MCF fluxes using a modern ocean reanalysis and validate with depth\u2010resolved observations. Results suggest the ocean has shifted from a net sink to a net source around 2005, outgassing 0.5\u00a0Gg\u00a0yr\u22121 in the 2010s (up to 30% of inferred MCF emissions). This ocean outgassing is an order of magnitude larger than previous estimates, and accounts for up to a third of the model\u2010observation discrepancy in OH."
+  },
+  {
+    "id": "137d3ef876627d0c",
+    "title": "Recent Strengthening of the Western Pacific Hadley Circulation Driven by Tropical Inter\u2010Basin Sea Surface Temperature Gradients",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119527?af=R",
+    "content": "Abstract\nThe Western Pacific Hadley Circulation (WPHC), the strongest regional Hadley circulation (HC), plays a crucial role in regional and global climate variability. Observations since 1979 reveal a pronounced strengthening of the boreal spring WPHC in the Northern Hemisphere, but the contributions of internal variability versus external forcing remain unclear. Using large ensemble simulations, we find that approximately 71% of the recent strengthening is attributed to phase transitions in three key sea surface temperature (SST) gradients\u2014tropical Western Pacific (TWP)\u2010Western North Pacific, TWP\u2010Tropical Eastern Pacific, and TWP\u2010Tropical Indian Ocean, indicating an internal variability mode linked to the inter\u2010basin SST gradient. Constraining future projections with skillful ensemble members based on these gradient phases reduces projection uncertainty by nearly 49% and suggests a likely weakening in coming decades. These results highlight the dominant role of internal variability and the importance of accurately representing tropical SST gradients for near\u2010term regional HC projections."
+  },
+  {
+    "id": "279385dcd683c12f",
+    "title": "Solar Energetic Particle Events During May 2024 Geomagnetic Superstorm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119559?af=R",
+    "content": "Abstract\nThree solar energetic particle (SEP) events originating from solar active region 13664 occurred on 10\u201316 May 2024, coinciding with a geomagnetic superstorm. Using data from the Geostationary Operational Environmental Satellites and Meteorological Operational satellite\u2010C, we investigate the energetic proton fluxes and east\u2010west flux ratios in geostationary orbit, as well as the cutoff L $L$\u2010shells measured in low Earth orbit during these events. For the first time, we find the rigidity dependence of the correlations between the east\u2010west proton flux ratios and the Kp $Kp$ index, the Dst $Dst$ index, and solar wind dynamic pressure. The corresponding correlation coefficients significantly increase and then decrease with the increase of proton rigidity. Such non\u2010monotonic variation can be well explained by the penumbral rigidity cutoffs of penetrating protons in west\u2010looking and east\u2010looking directions. The results suggest the strong influence of geomagnetic shielding on SEP penetration."
+  },
+  {
+    "id": "e13d721837976278",
+    "title": "Intracellularly coupled oscillators for synthetic biology",
+    "link": "https://www.nature.com/articles/s41467-025-67893-0",
+    "content": ""
+  },
+  {
+    "id": "e087ccca2a42c01a",
+    "title": "Exploring single-cell biosynthetic noise and dynamics for enhanced betaxanthin production in Escherichia coli",
+    "link": "https://www.nature.com/articles/s41467-025-67733-1",
+    "content": ""
+  },
+  {
+    "id": "7bd2ab1cc8588006",
+    "title": "A novel deep transformer based CvT model for sign language recognition in visual communication",
+    "link": "https://www.nature.com/articles/s41598-025-31558-1",
+    "content": ""
+  },
+  {
+    "id": "ed621158d206e49f",
+    "title": "Application of machine learning-based exosome-related gene profiles in precision diagnosis and treatment of osteoarthritis",
+    "link": "https://www.nature.com/articles/s41598-025-33127-y",
+    "content": ""
+  },
+  {
+    "id": "969709d13634e48e",
+    "title": "Oxindole based sulfonyl derivatives synthesized as potent inhibitors of alpha amylase and alpha glucosidase along with their molecular docking study",
+    "link": "https://www.nature.com/articles/s41598-025-32853-7",
+    "content": ""
+  },
+  {
+    "id": "32361fcc7f033683",
+    "title": "Integrating protein language and geometric deep learning models for enhanced vaccine antigen prediction",
+    "link": "https://www.nature.com/articles/s41467-025-67778-2",
+    "content": ""
+  },
+  {
+    "id": "3cc00a9216d889c4",
+    "title": "Proximal guided hybrid federated learning approach with parameter efficient adaptive intelligence for pneumonia diagnosis",
+    "link": "https://www.nature.com/articles/s41598-025-32286-2",
+    "content": ""
+  },
+  {
+    "id": "68636dee056ce8ef",
+    "title": "Research on cross-dataset cardiac signal domain generalization and feature interpretability",
+    "link": "https://www.nature.com/articles/s41598-025-33057-9",
+    "content": ""
+  },
+  {
+    "id": "db8d63ffccbd7df9",
+    "title": "An enhanced adaptive image steganography method using block skin-maps and the integer S-transform",
+    "link": "https://www.nature.com/articles/s41598-025-16176-1",
+    "content": ""
+  },
+  {
+    "id": "0e4ab6585f18a7cf",
+    "title": "Obesity prediction using an explainable deep learning framework based on LSTM\u2013LIME with integrated visualization",
+    "link": "https://www.nature.com/articles/s41598-025-33336-5",
+    "content": ""
+  },
+  {
+    "id": "5ab07e79ec4e6a36",
+    "title": "Generalizable and scalable protein stability prediction with rewired protein generative models",
+    "link": "https://www.nature.com/articles/s41467-025-67609-4",
+    "content": ""
+  },
+  {
+    "id": "607bd23dfdbff231",
+    "title": "Predicting Invasiveness of Lung Adenocarcinoma from Chest CT with Few-shot Vision-Language Ternary Classification Model",
+    "link": "https://www.nature.com/articles/s41746-025-02229-2",
+    "content": ""
+  },
+  {
+    "id": "17f52fba187ec579",
+    "title": "HMLA: A hybrid machine learning approach for enhancing stroke prediction models with missing data imputation techniques",
+    "link": "https://www.nature.com/articles/s41598-025-30203-1",
+    "content": ""
+  },
+  {
+    "id": "4e4df21e4108043f",
+    "title": "Characterization and biological health implications of microRNAs from human milk and infant formulas",
+    "link": "https://www.nature.com/articles/s41538-025-00661-y",
+    "content": ""
+  },
+  {
+    "id": "f9081de8192e930c",
+    "title": "Reconstructing the three-dimensional architecture of extrachromosomal DNA with ec3D",
+    "link": "https://www.nature.com/articles/s41467-025-67614-7",
+    "content": ""
+  },
+  {
+    "id": "ff5f4dd242abd82e",
+    "title": "Chromosome-level haplotype-resolved assembly of highly heterozygous grass genomes with PhaseGrass",
+    "link": "https://www.nature.com/articles/s41467-025-66377-5",
+    "content": ""
+  },
+  {
+    "id": "e84c3212a111d622",
+    "title": "An AI-driven multi-omics framework identifies lactylation-mediated therapeutic targets to overcome drug resistance in ovarian cancer",
+    "link": "https://www.nature.com/articles/s41698-025-01150-x",
+    "content": ""
+  },
+  {
+    "id": "b35cdb9d1ff5639a",
+    "title": "Knowledge enhancement and full utilization of document information for document-level biomedical relation extraction",
+    "link": "https://www.nature.com/articles/s41598-025-32931-w",
+    "content": ""
+  },
+  {
+    "id": "02e2af93d3c60ca9",
+    "title": "Active learning-guided optimization of cell-free biosensors for lead testing in drinking water",
+    "link": "https://www.nature.com/articles/s41467-025-66964-6",
+    "content": ""
+  },
+  {
+    "id": "d2c7610215230c6c",
+    "title": "Autophagy related biomarkers in ulcerative colitis revealed by bioinformatics analysis and immune correlation",
+    "link": "https://www.nature.com/articles/s41598-025-27363-5",
+    "content": ""
+  },
+  {
+    "id": "0d0dd938838c553f",
+    "title": "A computer-aided diagnosis system of parkinson\u2019s disease based on hilbert spectrum features of speech",
+    "link": "https://www.nature.com/articles/s41598-025-32543-4",
+    "content": ""
+  },
+  {
+    "id": "8a04f770f09be21b",
+    "title": "A novel adaptive hybrid intrusion detection system with lightweight optimization for enhanced security in internet of medical things",
+    "link": "https://www.nature.com/articles/s41598-025-31897-z",
+    "content": ""
+  },
+  {
+    "id": "9c8b36b3bc50e039",
+    "title": "The structure-preserving spectral graph neural network for dual kinase inhibitors and synergy scoring in gastric cancer",
+    "link": "https://www.nature.com/articles/s41746-025-02240-7",
+    "content": ""
+  },
+  {
+    "id": "017258afb41142ae",
+    "title": "Functional modules predict cancer-relevant genetic interactions in mammalian cells",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.18.695201v1?rss=1",
+    "content": "Genetic interactions can reveal gene function and identify cancer-relevant synthetic lethals, but systematic mapping in human cells is constrained by inefficient reagents, vast combinatorial search space, and diversity of cell types. Here, we leverage principles from yeast genetic networks to identify human gene modules enriched for genetic interactions. Using our Cas12a-based In4mer combinatorial knockout platform, we screen all pairwise interactions within receptor tyrosine kinase and DNA damage response modules across eight diverse cancer cell lines. We identify hundreds of unreported synthetic lethals, including a dense network within the protein glycosylation machinery, and confirm that interactions in 2D cell culture are maintained in more physiologically relevant models. Our targeted modules show up to 16-fold enrichment of interaction density, providing a scalable strategy for systematic interaction mapping."
+  },
+  {
+    "id": "0103f28803624968",
+    "title": "Hydrothermal origin of metabolic phosphorylation",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.19.695421v1?rss=1",
+    "content": "Phosphate is central to modern bioenergetics and to all theories for the origin of life. How and where phosphate entered metabolism are unknown, but microbial physiology and geochemical environments can provide important clues. Some bacteria obtain electrons and energy from phosphite (HPO32-), a reduced form of phosphate (HPO42-), that naturally occurs in serpentinizing (H2-producing) hydrothermal systems. Here we show that native palladium, which also occurs in serpentinizing hydrothermal systems, catalyzes the oxidation of phosphite to phosphate and H2 in water at 25-100 C in an exergonic reaction. Phosphite oxidation over Pd in water generates a reactive but yet unknown chemical intermediate, possibly metaphosphate, [PO3]-, that phosphorylates hydroxyl moieties in a wide spectrum of biologically relevant compounds including glycerol, ribose, glucose, serine and cytidine, forming phosphoester bonds at 25-100 C in 2-72 h. The same conditions also phosphorylate (i) phosphate residues, forming phosphoanhydride bonds in pyrophosphate, polyphosphates and ADP, (ii) creatine, forming the phosphoramidate bond in phosphocreatine, and (iii) acetate, forming acetyl phosphate. The reactions proceed without sulfur, excluding thioester or metal sulfide intermediates. Phosphite-dependent phosphorylations under conditions of serpentinization identify a natural, geochemical source of prebiotic phosphorylation and furthermore identify a source of continuous, aqueous metabolic energy that overcomes thermodynamic barriers at origins. This novel route of phosphorylation explains the centrality of phosphate in heredity and energetics as a chemical inheritance from the site where metabolism and life arose."
+  },
+  {
+    "id": "75e4b45c4642d92f",
+    "title": "High-throughput transposon mutagenesis defines the essential genome of diverse phages",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.19.695335v1?rss=1",
+    "content": "Phages are important drivers of bacterial evolution with therapeutic potential as antimicrobials. However, gaps in our understanding of phages and our inability to rapidly engineer them with new genetic cargo hinders progress towards phage-based therapies. To address the lack of unbiased, genome-wide mutational tools for phages, we developed transposon mutagenesis employing CRISPR-anti-CRISPR (Acr)-based selection and deep-sequencing (Phage Tn-seq). Transposon mutagenesis was effective for phages with unmodified or hypermodified genomes and a jumbo phage that protects its DNA within a nucleus. Phage Tn-seq enabled phage gene essentiality assignment consistent with structural proteomics and core gene conservation. Insertion biases allowed prediction of transcriptional direction and early injected phage DNA regions. We exploited the method to rapidly deliver new cargo to phage genomes in just a few days and used an AI-designed Acr to expand the phage transposon toolbox. Phage Tn-seq is a versatile tool to advance our understanding and applications of phages."
   }
 ]
