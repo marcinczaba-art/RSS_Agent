@@ -1072,5 +1072,515 @@
     "title": "Orangutan: an R package for analyzing and visualizing phenotypic data in the context of ecology and systematics",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.18.695244v1?rss=1",
     "content": "Aim Phenotypic characters have long been central to species diagnosis and remain indispensable even in the age of genomics. However, phenotypic datasets are often complex, spanning dozens of traits of varying types and units, with correlated variables and unbalanced sampling, posing challenges for robust, reproducible analysis. Existing software solutions are fragmented, usually requiring labor-intensive workflows across multiple tools and manual steps, which undermines reproducibility and hinders comparisons across studies. To address these methodological and practical challenges, I introduce Orangutan, an R package designed to provide a flexible, easy-to-implement framework for comparing groups using mensural and meristic data. Innovation Orangutan provides a flexible and efficient framework for analyzing mensural and meristic data, supporting a full suite of statistical and visualization tools optimized for species diagnosis and population comparisons. The package streamlines the identification of diagnostic, non-overlapping traits between species, while enabling rigorous assessment of both individual and multivariate trait differences in overlapping traits. Core features include optional allometric correction to remove size effects, automated selection of appropriate univariate tests with post hoc comparisons, and integrated multivariate analyses. All outputs, including summary statistics and annotated publication-ready figures, are generated with minimal coding, ensuring accessibility and standardization. Main Conclusions Empirical validation with real-world datasets, including animal and plant species, demonstrates that Orangutan robustly identifies diagnostic traits, reveals both subtle and clear group differences, and achieves high classification accuracy with phenotypic data alone. By automating and unifying key analytical steps, Orangutan promotes reproducibility, transparency, and efficiency in phenotypic research. This package empowers researchers in taxonomy, ecology, and evolutionary biology to adopt quantitative best practices for species diagnoses, facilitating comparative studies and advancing methodological standards in morphological data analysis. Orangutan is freely available with comprehensive documentation to support widespread adoption."
+  },
+  {
+    "id": "df3f407e31b74b31",
+    "title": "The Nature Podcast highlights of 2025",
+    "link": "https://www.nature.com/articles/d41586-025-03756-4",
+    "content": "<p>Nature, Published online: 24 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03756-4\">doi:10.1038/d41586-025-03756-4</a></p>The team select some of their favourite stories from the past 12 months."
+  },
+  {
+    "id": "5667a4ba3a58ed39",
+    "title": "Dynamics of Integrated Multi-Trophic Aquaculture (IMTA): A Modeling Approach Incorporating Zooplankton and Scavenger",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519325003352?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Honghui Gao, Ming Chen, Yuwei Liu</p>"
+  },
+  {
+    "id": "cb3e33d6e2b05ab8",
+    "title": "Diversity of the exopolysaccharide cluster I in the Bradyrhizobium genus",
+    "link": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaf145/8404156?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div><span style=\"font-style: italic;\">Bradyrhizobium</span>, the largest rhizobial genus, is characterized by a variety of exopolysaccharides (EPSs) components such as penta- and tetrasaccharides, depending on the species. However, several genes involved in EPS synthesis remain unknown. In this study, we investigated whether 186 <span style=\"font-style: italic;\">Bradyrhizobium</span> strains possess homologous genes in the EPS cluster I, which is responsible for the synthesis of a pentasaccharide EPS by <span style=\"font-style: italic;\">B. diazoefficiens</span> USDA110. The absence of homologous genes in the <span style=\"font-style: italic;\">B. elkanii</span> and Photosynthetic <span style=\"font-style: italic;\">Bradyrhizobium</span> supergroups, in contrast to the <span style=\"font-style: italic;\">B. japonicum</span> supergroup, suggests that these lineages may utilize distinct and uncharacterized genes involved in tetrasaccharide EPS biosynthesis.</span>"
+  },
+  {
+    "id": "88a47c229960002f",
+    "title": "N\u03b5-acetyl-\u03b2-lysine or glycine betaine as compatible solutes in response to increasing ammonia in Methanoculleus sp strains",
+    "link": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaf143/8404151?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Methanogens rely on compatible solutes to withstand osmotic stress, yet their responses to high ammonium concentrations, common in biogas digesters, remain poorly understood. In this study, intracellular osmolyte accumulation was examined in four <span style=\"font-style: italic;\">Methanoculleus bourgensis</span> strains (MAB1, MAB2, MAB3, and BA1), isolated from high-ammonia biogas digesters, under progressive increase in concentrations of ammonium and sodium chloride. Their responses were compared with those of the type strain <span style=\"font-style: italic;\">Methanoculleus bourgensis</span> MS2\u1d40 and the halophilic <span style=\"font-style: italic;\">Methanoculleus submarinus</span> Nankai-1\u1d40. All investigated strain grew to 12\u00a0g l<sup>\u22121</sup> NH<sub>4</sub><sup>+</sup>-N (0.3\u00a0mg l<sup>\u22121</sup> NH<sub>3</sub>), and gradual adaptation increased ammonium/ammonia tolerance in some strains to 25\u00a0g l<sup>\u22121</sup> NH<sub>4</sub><sup>+</sup>-N. Whereas the reference strains accumulated glycine betaine under both ammonium and sodium chloride stress, the <span style=\"font-style: italic;\">M. bourgensis</span> strains from high ammonia biogas systems uniquely accumulated N<sup>\u03b5</sup>-acetyl-\u03b2-lysine during increasing levels of ammonium chloride. This \u03b2-amino acid derivative is known as a NaCl-induced osmoprotectant in methanogens, but it's association with high ammonium/ammonia levels in pure cultures has not previously been demonstrated. Our findings identify N<sup>\u03b5</sup>-acetyl-\u03b2-lysine biosynthesis as a potential mechanism underpinning the exceptional ammonium/ammonia tolerance of <span style=\"font-style: italic;\">M. bourgensis</span>, a taxon frequently dominating methane production in high-ammonia biogas systems, while also revealing notable variation in this trait among its subspecies.</span>"
+  },
+  {
+    "id": "db288da2e7b3682c",
+    "title": "Volatilomic complexity of three Northern Greenland bacterial isolates across a salt gradient",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf125/8378097?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The High Arctic deserts of remote northern Greenland are expected to become warmer and wetter due to climate change. Precipitation changes will increase fluctuations in surface soil salinity, and the same happens for thawed permafrost soil where stable salt concentrations are replaced with fluctuating salinity during annual freeze-thaw cycles. Both have unknown effects on the microbial communities and their emissions of microbial volatile organic compounds (MVOCs). These compounds are produced from various pathways mainly as secondary metabolites and have ecological and climatic implications when released into the environment and the atmosphere. Thus, it is important to explore the effects of environmental changes, such as changes in salinity, on soil microbial communities and their MVOC emissions. Here, we characterize the MVOC production of three novel bacterial isolates from northern Greenland throughout their growth period under low, moderate, and high salt concentrations. We demonstrate that salinity significantly alters both the quantity and composition of MVOCs emitted by all three strains, including changes in the emissions of sulphur- and nitrogen-containing compounds, potentially leading to ecosystem nutrient loss. The observed changes in MVOC profiles suggest that changes in soil salinity due to climate change could alter microbial metabolism and MVOC emissions, with potential implications for Arctic nutrient cycling and atmospheric chemistry.</span>"
+  },
+  {
+    "id": "542d7ea39595cd9f",
+    "title": "Ecology of the gut microbiota and colonization resistance: mechanisms and therapeutic implications",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf124/8374711?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The human gastrointestinal (GI) ecosystem is a highly dynamic environment and provides diverse microbial habitats for the gut microbiota, which are shaped by environmental factors, metabolic processes, and immune responses. The host\u2013microbiota interactions in the gut form a balanced yet adaptable network. When invading microorganisms enter the GI tract, they deploy multiple strategies to overcome both host defences and competition from the resident microbiota. In turn, the host and native microbiota have evolved sophisticated mechanisms to prevent the colonization of invading organisms, collectively termed colonization resistance. Deciphering the mechanisms of interplay in the host\u2012microbe and microbe\u2012microbe relationships in the gut offers crucial insights into therapeutic interventions aimed at restoring or maintaining gut microbial homeostasis.</span>"
+  },
+  {
+    "id": "6858de5e94d600b9",
+    "title": "AHL quorum sensing regulates T6SS and volatiles production in rice root-colonizing Enterobacter asburiae AG129",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf120/8373805?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Pseudomonadota (formerly Proteobacteria) commonly use a contact independent cell\u2013cell communication system known as quorum sensing (QS) mediated by <span style=\"font-style: italic;\">N</span>-acyl-homoserine lactone (AHL) signal molecules. The canonical AHL QS system involves a <span style=\"font-style: italic;\">luxI</span>-family gene, which encodes an AHL synthase, and a <span style=\"font-style: italic;\">luxR</span>-family gene, which encodes a transcriptional regulator responsive to the cognate AHL(s). This study involves the AHL QS system of <span style=\"font-style: italic;\">Enterobacter asburiae</span> AG129, a root associated strain isolated from rice (<span style=\"font-style: italic;\">Oryza sativa</span>). <span style=\"font-style: italic;\">Enterobacter asburiae</span> AG129 produces the <span style=\"font-style: italic;\">N</span>-butanoyl homoserine lactone (C4-AHL) signal molecule. Genome sequencing of strain AG129 revealed the presence of a canonical AHL QS system, comprising genetically adjacent <span style=\"font-style: italic;\">easI</span>-like and <span style=\"font-style: italic;\">easR</span>-like genes. A genomic <span style=\"font-style: italic;\">easI</span> knockout mutant was no longer able to produce AHLs, but the in-trans complementation with a plasmid carrying the <span style=\"font-style: italic;\">easI</span> gene restored the AHL production. QS mediated by AHLs in AG129 was found to influence rice root colonization, and secretome analysis highlighted a significant regulatory role in the expression of Type VI secretion system (T6SS) proteins. Gas chromatography\u2013mass spectrometry analysis identified 16 volatile organic compounds (VOCs) that were more abundantly emitted by the wild-type strain compared to the <span style=\"font-style: italic;\">easI</span> mutant. Overall, our findings suggest that AHL-based QS in <span style=\"font-style: italic;\">E. asburiae</span> AG129 positively regulates T6SS expression and VOC production, while negatively affecting root colonization and motility. This study is among the first to explore the role of QS signaling in a bacterial root-endophyte, providing evidence of a connection between QS activity and the ability of the bacterium to inhabit, compete and colonize the plant root endosphere.</span>"
+  },
+  {
+    "id": "21a4d31005faae85",
+    "title": "Commensal Clostridia in the preterm gut as reservoirs of antimicrobial resistance: susceptibility profiles, and resistance genes",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf122/8371765?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The gut microbiome of preterm infants is highly vulnerable to perturbations. Members of the class <span style=\"font-style: italic;\">Clostridia</span> are among the first anaerobes colonizing the preterm gut, yet their ecological roles and antimicrobial resistance (AMR) properties remain poorly understood. We characterized 98 <span style=\"font-style: italic;\">Clostridia</span> isolates from fecal samples of preterm infants, spanning 17 species and 11 genera. Isolates were identified by MALDI-TOF and 16S rRNA sequencing, colonization levels were quantified, and antimicrobial susceptibility was assessed by disk diffusion and E-test. Resistance determinants were screened by PCR and sequenced. We focused on <span style=\"font-style: italic;\">Clostridia</span> that were present at low colonization levels (mean 5.3 log<sub>10</sub> CFU g<sup>\u22121</sup> of feces). While most isolates were susceptible to amoxicillin\u2013clavulanic acid, imipenem, and metronidazole, resistance to tetracycline (12%), clindamycin (35%), and cefotaxime (35%) was observed. Distinct species-specific resistance included linezolid (<span style=\"font-style: italic;\">Clostridium argentinense</span>), chloramphenicol (<span style=\"font-style: italic;\">Clostridium innocuum</span>), and tigecycline (<span style=\"font-style: italic;\">Paeniclostridium sordellii</span>), and one <span style=\"font-style: italic;\">Robinsonella peoriensis</span> isolate displayed vancomycin resistance. The detection of <span style=\"font-style: italic;\">tet</span> and <span style=\"font-style: italic;\">erm</span> genes corresponded with phenotypic resistance, while \u03b2-lactamase activity was uncommon. Although colonizing at low levels, these findings highlight the ecological significance of rarely studied commensal <span style=\"font-style: italic;\">Clostridia</span> and their contribution to the neonatal resistome, acting as underappreciated reservoirs of AMR genes during a critical window of microbiome assembly.</span>"
+  },
+  {
+    "id": "f594ea66ba9f55ef",
+    "title": "Subsurface microbiology and the pressing societal need to support future exploration",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf121/8371752?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Subsurface microbiology is at a crossroads, evolving from asking \u2018who\u2019s home\u2019 to seeking clarity on microbes' functionality and the key processes that constrain subsurface life. Importantly, the processes subsurface microorganisms mediate are central to societal needs to mitigate climate change and address waste storage, as proposed solutions to both involve subsurface habitats. However, subsurface sampling opportunities and funding remain limited and, in some cases, have diminished. This perspective article is aimed at scientists who have or might develop an interest in the geomicrobiology of the subsurface, for funding agencies worldwide, and for scientists and engineers engaged in the extractive and waste disposal industries. It briefly reviews subsurface science\u2019s history and current status and proposes some actions for moving forward. In particular, we see the continued need for engaging early-career microbiologists in drilling projects, increasing access through industry partnerships, microbiology-led drilling projects, and creating interdisciplinary drilling projects by including microbiologists during the drilling project planning.</span>"
+  },
+  {
+    "id": "5b8e41a16021b3ab",
+    "title": "Metatranscriptomic-driven insights into mucosal glycan degradation by the human gut microbiota",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf118/8365572?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The secreted mucus layer in the human gastrointestinal tract constitutes both a protective boundary between gut lumen and epithelium as well as an important nutrient source for members of the gut microbiota. While many gut microbes possess the genetic potential to degrade mucin, it is still unclear which species transcribe the respective genes. Here, we systematically analysed publicly available metagenome and metatranscriptome datasets to characterize the gut microbial community involved in mucosal glycan degradation. We utilized cooccurrence network analysis and linear regression to elucidate the ecological strategies of, and relationship between, mucus degraders. We found that although ~60% of species carrying genes encoding for mucosal-glycan-degrading enzymes have detectable transcription of these genes, only 21 species prevalently transcribe more than 1 gene. Furthermore, the transcription of individual genes was frequently dominated by single species in individual samples. Transcription patterns suggested the presence of competitive mucosal glycan degraders characterized by abundance-driven transcription that were negative predictors for the transcription of other degraders as well as opportunistic species with decoupled abundance and transcription profiles. These findings provide insights into the ecology of the mucosal glycan degradation niche in the human gut microbiota.</span>"
+  },
+  {
+    "id": "1f88b5fbd9eae0b8",
+    "title": "Contrasting diversity patterns of brown: and white-rot wood saprotrophs in response to climate and dispersal vectors",
+    "link": "https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiaf116/8339702?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Climate is a major determinant of fungal diversity on both large and small spatial scales. However, little is known about the combined effects of regional temperature, microclimate, and dispersal vectors on fungal diversity. We studied the effect of microclimate and wood-inhabiting beetles serving as potential dispersal vectors on the diversity of wood-inhabiting fungi in general\u2014and of brown- and white-rot fungi in particular\u2014along a regional temperature gradient. This focus is motivated by the critical role that different rot types play in wood decomposition and carbon cycling. Beetle and fungal communities were sampled in 243 logs of Norway spruce (<span style=\"font-style: italic;\">Picea abies</span>), which were placed along a 1200\u00a0km latitudinal gradient in Sweden (i.e. regional temperature gradient) and under different shading conditions (i.e. microclimatic gradient). Species richness of brown-rot fungi increased with beetle abundance in both the south and the north, whereas shade level markedly limited their species richness only in the north. In contrast, white-rot fungi were unaffected by either factor. These findings highlight that fungal responses to microclimate and dispersal vectors may differ between regions and suggest that species richness of brown-rot fungi may increase with a warming climate, especially in the north.</span>"
+  },
+  {
+    "id": "08cb7144a884398f",
+    "title": "Carbon cycle system and origin of organic molecules in subseafloor serpentinized rocks of the Atlantis Massif (Mid-Atlantic Ridge, 30\u00b0N) oceanic core complex",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0967063725002018?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 December 2025</p><p><b>Source:</b> Deep Sea Research Part I: Oceanographic Research Papers</p><p>Author(s): Amila Sandaruwan Ratnayake, Yoshikazu Sampei, Minoru Ikehara, David Lawrence Dettman</p>"
+  },
+  {
+    "id": "ffc2834a26299789",
+    "title": "Projection-specific integration of convergent thalamic and retrosplenial signals in the presubicular head direction cortex",
+    "link": "https://elifesciences.org/articles/92443",
+    "content": "Head direction (HD) signals function as the brain\u2019s internal compass. They are organized as an attractor and anchor to the environment via visual landmarks. Here, we examine how thalamic HD signals and visual information from the retrosplenial cortex combine in the presubiculum. We find that monosynaptic excitatory connections from anterior thalamic nucleus and from retrosplenial cortex converge on single layer 3 pyramidal neurons in the dorsal portion of mouse presubiculum. Independent dual-wavelength photostimulation of these inputs in slices leads to action potential generation preferentially for near-coincident inputs, indicating that layer 3 neurons can transmit a visually matched HD signal to medial entorhinal cortex. Layer 4 neurons, which innervate the lateral mammillary nucleus, form a second step in the association of HD and landmark signals. They receive little direct input from thalamic and retrosplenial axons. We show that layer 4 cells are excited di-synaptically, transforming regular spiking activity into bursts of action potentials, and that their firing is enhanced by cholinergic agonists. Thus, a coherent sense of orientation involves projection-specific translaminar processing in the presubiculum, where neuromodulation facilitates landmark updating of HD signals in the lateral mammillary nucleus."
+  },
+  {
+    "id": "5c7b62c19a9bc92c",
+    "title": "Toward single-cell control: noise-robust perfect adaptation in biomolecular systems",
+    "link": "https://www.nature.com/articles/s41467-025-67736-y",
+    "content": ""
+  },
+  {
+    "id": "a492c11c91c10eb8",
+    "title": "A stationary phase-specific bacterial green light sensor for enhancing metabolite production",
+    "link": "https://www.nature.com/articles/s41467-025-67829-8",
+    "content": ""
+  },
+  {
+    "id": "3bd31ba08292eb55",
+    "title": "EmbSAM: cell boundary localization and Segment Anything Model for fast images of developing embryos",
+    "link": "https://www.nature.com/articles/s42003-025-09220-3",
+    "content": ""
+  },
+  {
+    "id": "b9aa9307ae3bc7f0",
+    "title": "Apoptotic signatures allow early and rapid screening of drug-induced liver injury to accelerate drug discovery",
+    "link": "https://www.nature.com/articles/s43856-025-01306-7",
+    "content": ""
+  },
+  {
+    "id": "8e1393032678c1e4",
+    "title": "Decoding molecular signatures and identifying therapeutic targets in triple-negative breast cancer subtypes using omics and network analysis",
+    "link": "https://www.nature.com/articles/s41598-025-28191-3",
+    "content": ""
+  },
+  {
+    "id": "818b35a62580ea66",
+    "title": "Stable de novo protein design via joint conformational landscape and sequence optimization",
+    "link": "https://www.nature.com/articles/s41467-025-66526-w",
+    "content": ""
+  },
+  {
+    "id": "159cb8b468599939",
+    "title": "SynergyGraph: predicting cell line specific drug combination synergy scores using knowledge graph representation and hypergraph modeling",
+    "link": "https://www.nature.com/articles/s41598-025-33581-8",
+    "content": ""
+  },
+  {
+    "id": "d49de3ba09ad2b27",
+    "title": "Multi-omics dissection of SNP-mediated immunometabolic signatures in Alzheimer\u2019s disease reveals a novel individual predictive model",
+    "link": "https://www.nature.com/articles/s41746-025-02265-y",
+    "content": ""
+  },
+  {
+    "id": "8f277f4bfde5deb0",
+    "title": "Rational design and in silico characterization of a multiepitope mRNA vaccine candidate against human metapneumovirus (hMPV) using reverse vaccinology and immunoinformatics approaches",
+    "link": "https://www.nature.com/articles/s41598-025-29906-2",
+    "content": ""
+  },
+  {
+    "id": "bc83ee524b148e20",
+    "title": "Optimized federated learning framework with RegNetZ and Swin-Transformer for multimodal pancreatic cancer detection1",
+    "link": "https://www.nature.com/articles/s41598-025-31967-2",
+    "content": ""
+  },
+  {
+    "id": "b1f6e8bb5c901fbb",
+    "title": "Bidirectional reinforcement learning neural network for constrained molecular design",
+    "link": "https://www.nature.com/articles/s41598-025-33443-3",
+    "content": ""
+  },
+  {
+    "id": "55817cd4851fba09",
+    "title": "An efficient hybrid artificial intelligence framework for lung cancer classification using CT images",
+    "link": "https://www.nature.com/articles/s41598-025-31432-0",
+    "content": ""
+  },
+  {
+    "id": "9fd8a8f9bd57f0e9",
+    "title": "Tissue maps in motion",
+    "link": "https://www.nature.com/articles/s41592-025-02950-6",
+    "content": ""
+  },
+  {
+    "id": "75f53017bdf02330",
+    "title": "PLX3397 attenuated tumor growth and remodeled tumor microenvironment of recurrent glioblastoma",
+    "link": "https://www.nature.com/articles/s41598-025-32943-6",
+    "content": ""
+  },
+  {
+    "id": "3df89e2a2e61b3ce",
+    "title": "ToxIR: an accurate RNA-seq pipeline for high-precision toxin transcriptome profiling, validated in odontobuthus doriae venom glands",
+    "link": "https://www.nature.com/articles/s41598-025-33632-0",
+    "content": ""
+  },
+  {
+    "id": "0ff10cc54926f65b",
+    "title": "Towards time-resolved multiscale and multimodal imaging",
+    "link": "https://www.nature.com/articles/s44303-025-00131-w",
+    "content": ""
+  },
+  {
+    "id": "b96405dd189f77df",
+    "title": "Baicalin protects against myocardial fibrosis through inhibition of DOT1L/COL-1 pathway during diabetic cardiomyopathy",
+    "link": "https://www.nature.com/articles/s41598-025-31765-w",
+    "content": ""
+  },
+  {
+    "id": "ecb8b977caee8656",
+    "title": "Defining the marker and developmental trajectory of myeloid-derived suppressor cells in aging by single-cell transcriptomics",
+    "link": "https://www.nature.com/articles/s41514-025-00317-x",
+    "content": ""
+  },
+  {
+    "id": "8430a6cae77c6ffe",
+    "title": "Deep learning-based disease detection in potato and mango leaves: a comparative study of CNN, AlexNet, ResNet, and EfficientNet",
+    "link": "https://www.nature.com/articles/s41598-025-32607-5",
+    "content": ""
+  },
+  {
+    "id": "e69323f6a956c020",
+    "title": "ScRNA profiling of peripheral blood in kidney transplant recipients across rejection responses and treatments",
+    "link": "https://www.nature.com/articles/s41597-025-06489-1",
+    "content": ""
+  },
+  {
+    "id": "970c250004a17923",
+    "title": "Elucidating the anti-fibrotic mechanisms of Abrus cantoniensis in hepatic fibrosis using network pharmacology and proteomics",
+    "link": "https://www.nature.com/articles/s41598-025-33640-0",
+    "content": ""
+  },
+  {
+    "id": "3929a4978359b878",
+    "title": "Macretina: a dataset, to support deep learning assisted retinopathy of prematurity diagnosis",
+    "link": "https://www.nature.com/articles/s41598-025-31624-8",
+    "content": ""
+  },
+  {
+    "id": "2f33005fb111e731",
+    "title": "Improving non-invasive glucose estimation with monthly calibrated photoplethysmography and implicit HbA1c",
+    "link": "https://www.nature.com/articles/s43856-025-01210-0",
+    "content": ""
+  },
+  {
+    "id": "7280c011b7b90398",
+    "title": "SS_CASE_UNet: an attention-enhanced semi-supervised framework for fetal cerebellum segmentation in ultrasound images",
+    "link": "https://www.nature.com/articles/s41598-025-28201-4",
+    "content": ""
+  },
+  {
+    "id": "9fd3d9bd8f750e75",
+    "title": "Two distinct chromatin modules regulate proinflammatory gene expression",
+    "link": "https://www.nature.com/articles/s41556-025-01819-2",
+    "content": ""
+  },
+  {
+    "id": "b645f1c9e1795d1d",
+    "title": "Double Hopf bifurcation and chaotic dynamics in a periodically-forced SIR model",
+    "link": "https://www.nature.com/articles/s41598-025-28016-3",
+    "content": ""
+  },
+  {
+    "id": "755a50a4932d937d",
+    "title": "Identification of bioactive phytoconstituents as promising ABL2 inhibitors using virtual screening and molecular dynamics simulation",
+    "link": "https://www.nature.com/articles/s41598-025-28195-z",
+    "content": ""
+  },
+  {
+    "id": "f367ad5cb76fabf9",
+    "title": "Dynamic adaptive synergistic attention network for visible-infrared person re-identification",
+    "link": "https://www.nature.com/articles/s41598-025-28094-3",
+    "content": ""
+  },
+  {
+    "id": "a6e18ef3e2b9827f",
+    "title": "Assessment of gait speed in older adults using a short\u2013distance walking test with smartphone motion sensors and machine learning",
+    "link": "https://www.nature.com/articles/s41598-025-28019-0",
+    "content": ""
+  },
+  {
+    "id": "9716b34d0776c45f",
+    "title": "Unraveling the mechanism of curcumin in coronary slow flow phenomenon through network pharmacology and molecular docking",
+    "link": "https://www.nature.com/articles/s41598-025-28358-y",
+    "content": ""
+  },
+  {
+    "id": "05486a8dc8e906c5",
+    "title": "Joint attention GAN for medical report generation with clinical style preservation",
+    "link": "https://www.nature.com/articles/s41598-025-28181-5",
+    "content": ""
+  },
+  {
+    "id": "5dd2d05fe82d2e1a",
+    "title": "Enhanced classification prostate cancer based on generative adversarial networks and integrated deep learning with vision transformer models",
+    "link": "https://www.nature.com/articles/s41598-025-31623-9",
+    "content": ""
+  },
+  {
+    "id": "f322db97e6ce9108",
+    "title": "A reinforcement learning algorithm to optimize resource utilization in combat casualty care",
+    "link": "https://www.nature.com/articles/s41598-025-28021-6",
+    "content": ""
+  },
+  {
+    "id": "51f0812c260c7658",
+    "title": "Antibody-based signal amplification for single-cell proteomics by mass spectrometry",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695898v1?rss=1",
+    "content": "Single-cell proteomics by mass spectrometry (scp-MS) detects thousands of proteins per cell, yet low-abundant proteins routinely detected by antibody-based methods are challenging to quantify in the single-cell proteome. To address this, we developed antibody peptide tags (AbTags) - MS detectable tandem peptide barcodes coupled to antibodies which provide signal amplification, enable absolute quantification, and are quantified alongside endogenous proteomes by scp-MS. As proof-of-concept, AbTags quantify cytokine-induced PDL1 expression, undetectable by scp-MS."
+  },
+  {
+    "id": "fc7fe3f0ac7f68b1",
+    "title": "Maximal human lifespan in light of a mechanistic model of aging",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695887v1?rss=1",
+    "content": "Why has maximal human lifespan barely changed in the past two centuries? To understand this we make a mechanistic link between cellular damage, survival curves, and maximum lifespan using a validated stochastic model of damage accumulation and extensive human data. We show that maximal lifespan is set mainly by damage production and clearance rates, as in progeroid syndromes. In contrast, lifestyle factors such as exercise, nutrition, and sleep chiefly reduce stochastic noise and raise the damage level compatible with survival, shifting the median but not the maximum. Similar constraints arise in other mortality models. Our analysis predicts that lifestyle can extend maximal lifespan by at most ~1 year; substantial gains will require directly perturbing damage production or removal, suggesting specific molecular targets."
+  },
+  {
+    "id": "38f8bddd4bbf6076",
+    "title": "Functionalist Oncology to Model the Contextuality of Dynamics and Treatment in Acute Myeloid Leukemia",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695906v1?rss=1",
+    "content": "Acute myeloid leukemia (AML) is a disease with a high degree of intra- and interpatient heterogeneity. Current treatments almost uniformly employ the standardized \"7+3\" regimen, which is based on cytarabine combined with an anthracycline, with long-term survival rates below 30%. Our work specifically focuses on the cytarabine component of this regimen. Functionalist oncology utilizes edge-weighted digraphs as a representational tool to model the mathematical functional interdependencies of disease factors. This methodology enables a conceptual and mechanistic analysis of key factors influencing therapeutic success, providing a framework that can be parameterized to explore patient-specific treatment responses when suitable data are available. It incorporates the oligoclonal nature of AML to perform, in principle, comprehensive cost-benefit analyses regarding the addition of individual drugs to existing treatment regimens and the number and type of chemotherapy courses to be given. Extrapolating from experimental data, we investigate the therapeutic potential and risks of SAMHD1 inhibitors in AML treatment as a proof-of-concept. We also provide a web-based interactive application to visualize hypothetical AML treatment scenarios, which can be combined with ex vivo single-cell phenotypic (gene expression), genotypic (somatic mutations), and functional (drug responses) analyses. Functionalist oncology can thus be used to generate testable hypotheses that might contribute to improving oncological decision-making, e.g., by identifying the optimal number, nature and sequence of chemotherapy blocks, including both existing AML-directed blocks and additional drugs, such as SAMHD1 inhibitors."
+  },
+  {
+    "id": "5afffa1e8f1f3f6d",
+    "title": "Modulation of signal response by small RNAs through feed-forward loops",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696124v1?rss=1",
+    "content": "In response to environmental changes, bacteria have evolved sophisticated regulatory networks that incorporate small RNAs (sRNAs) and transcription factors (TFs) to fine-tune cellular physiology. Both sRNAs and TFs modulate gene expression, but the former function via post-transcriptional mechanisms, while the latter act at the transcriptional level. However, it remains unclear why both regulatory layers are conserved through evolution, rather than one being sufficient. Here, we experimentally identified that CRP, a global regulator, regulates 25 small RNAs (sRNAs) in Escherichia coli. Interestingly, CRP also controls 80% of the target genes of these sRNAs. This architecture led us to identify 34 novel sRNA-mediated feed-forward loops (sFFLs) circuits where CRP regulates both an sRNA and its target within the CRP regulon. Quantitative PCR analysis of 16 such sFFLs revealed that each type possesses a distinct cAMP dose-response profile, suggesting that different sFFL structures embody unique regulatory logic. Specifically, coherent and incoherent type 3 and 4 sFFLs exhibit broader dynamic ranges in their dose-response compared to open-loop controls. Coherent and incoherent type 1 and 2 sFFLs appear more energy-efficient. Altogether, we propose that sRNAs cooperate with TFs through sFFLs to optimize both the energy efficiency and the diversity of signal response profiles. Therefore, sRNAs serve as critical components integrating transcriptional and post-transcriptional networks across diverse cellular pathways."
+  },
+  {
+    "id": "5fd0c31f506105ef",
+    "title": "A yeast model of 5-oxoproline accumulation reveals a general toleration to 5-oxoproline",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.21.695865v1?rss=1",
+    "content": "5-oxoproline (5-OP) or pyroglutamic acid is an intermediate of the degradation arc of the glutathione cycle. It is metabolized into glutamate through the action of the 5-oxoprolinase enzyme, the only enzyme known to act on this metabolite. 5-OP has long been known to be relatively inert with a proposed role as an osomoprotectant. Recent studies on the 5-oxoprolinase enzyme in mammalian cells have, however, shown that knockdown or deletions of the 5-oxoprolinase make mice (and humans) prone to heart failure. This was ascribed to oxidative stress due to a two-fold elevation in 5-OP. To examine the consequences of 5-oxoproline accumulation more rigorously, we have created a yeast model for 5-oxoproline accumulation. We observed retardation of growth only when intracellular levels of 5-OP were increased 12-20 fold over the normal levels. A transcriptomics study was carried out under these conditions. We observed that while a large number of genes were regulated upto 2-fold, there were no single prominent pathways amongst them. Among the key genes upregulated were different efflux pumps. Using knockouts and also overexpression of selected genes, we could observe that many of the upregulated genes were involved in the cellular response to 5-OP accumulation. However, it did not appear that there was any significant oxidative stress response. The study suggests a need to reevaluate previous suppositions of the 5-OP induced oxidative stress response. Instead, we propose an alternative model to explain the possible consequences of 5-oxoprolinase deficiency based on these findings made with the yeast model."
+  },
+  {
+    "id": "9690c50df1c0dbe4",
+    "title": "An interplay between cytoplasmic flow and cell morphology during cytokinesis simulated by the moving-particle semi-implicit method",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695877v1?rss=1",
+    "content": "Cells are composite mechanical systems: a viscoelastic cytoplasm enclosed by a deformable cell cortex. These two components exchange forces continuously--fluid motion deforms the cortex, and cortical deformation in turn redirects intracellular flow. Yet most cellular mechanics simulations treat either the fluid or the cortex in isolation, leaving their mechanical interplay largely unexplored. To address this gap, we developed a fluid-structure interaction framework based on the moving-particle semi-implicit (MPS) method that solves the coupled dynamics of cytoplasmic flow, internal pressure, and cortical elasticity. We applied this framework to cytokinesis, focusing on how the cleavage plane is positioned. While the mitotic spindle is known to specify the furrow site, prior work has emphasized biochemical cues emanating from the spindle, whereas a direct mechanical cue has been difficult to interrogate. Our simulations show that spindle elongation generates cytoplasmic flows that create a pressure minimum near the spindle midzone; when the cortex is modeled as an elastic shell, this pressure landscape drives a localized cortical invagination at that site. We therefore propose that spindle-driven cytoplasmic flow provides a mechanical positional cue for cleavage-furrow initiation."
+  },
+  {
+    "id": "5cc3c8197303f64c",
+    "title": "Gene-by-Environment Interaction Significantly Drives Bacterial Endophyte Communities in Maize Stalks",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696053v1?rss=1",
+    "content": "Background: Many microbes are known to boost the performance of crop plants, and their use as crop treatments (\"biologicals\") is an active area of research and commercialization. Although many identified microbes can boost plant production under laboratory settings, most fail to translate to field settings, and even the ones that are commercialized are often unreliable. While many factors likely underlie these issues, one that has been underexplored is the idea that interactions between plants and microbes can vary across both different host genetics and different environments, and that specific combinations of host and environment can result in very different microbial outcomes. Results: To quantify how a plant microbiome can change across host genotype and environment and to determine the relative importance of these factors, we sampled maize stalks from 20 specific hybrid varieties grown at 15 locations in the United States. Using 16S rRNA gene sequencing, we find that the stalk microbiome is highly variable, with a handful of bacterial taxa conserved at broader taxonomic levels (Phylum, Class) and almost none at finer levels (Genus, Species). Local environment and gene-by-environment interactions both had consistently large and significant effects on the microbial community (measured by alpha- and beta-diversity summary statistics, individual taxa, and inferred functional capacity), whereas host genotype had little to no consistent effect across environments. We also identified specific soil factors (pH and potassium) as the most significant environmental drivers of the community, even though these communities were living inside the stalks. Conclusions: Taken together, our results indicate that while host genetics can significantly affect the stalk microbial community, these effects are almost entirely predicated on interactions with the environment. These results imply that reliable deployment of microbes for crop production will require significant investment in trials across many locations and genetic backgrounds, either to estimate the GxE effects directly or to screen for microbes whose effects are less dependent on these two factors."
+  },
+  {
+    "id": "9c2b780aa243adaa",
+    "title": "Mechanisms of HSV-1 helicase-primase inhibition and replication fork complex assembly",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696259v1?rss=1",
+    "content": "Herpesviruses are widespread double-stranded DNA viruses that establish lifelong latency and cause various diseases. Although DNA polymerase-targeting antivirals are effective, increasing drug resistance underscores the need for alternatives. Helicase-primase inhibitors (HPIs) are promising antivirals, but their mechanisms of action are poorly defined. Furthermore, how the helicase-primase (H/P) complex and DNA polymerase coordinate genome replication is not well understood for herpesviruses. Here, we report cryo-EM structures of the herpes simplex virus (HSV) H/P complex bound to HPIs, showing that these lock the helicase-primase complex in an inactive conformation. Single-molecule assays reveal that HPIs cause helicase-primase complexes to pause in unwinding activity on DNA. The structure of an HPI-bound replication fork complex, comprising the H/P complex (UL5, UL52, and UL8) and polymerase holoenzyme (UL30 and UL42), reveals a previously uncharacterized interface bridging these complexes. These findings provide a structural framework for understanding herpesvirus replisome assembly and advancing inhibitor development."
+  },
+  {
+    "id": "dcf364cea068708b",
+    "title": "Vibrio cholerae serotype impacts pathogenicity",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696279v1?rss=1",
+    "content": "The O1 serogroup of Vibrio cholerae has caused all cholera pandemics and for over a century V. cholerae O1 outbreak strains have been characterized by their serotype. The two V. cholerae serotypes differ by the presence (Ogawa) or absence (Inaba) of methylation of the terminal sugar on the lipopolysaccharide O1-antigen. Serotype switching often occurs during epidemics and has historically been attributed to the pathogen adapting to immune pressures. Here we address the impact of serotype on V. cholerae pathogenicity using otherwise isogenic Ogawa and Inaba versions of several clinical V. cholerae O1 isolates. Our findings indicate that O1 antigen methylation in Ogawa strains promotes V. cholerae colonization, infectivity and resistance to antimicrobial peptides. We propose that methylation of the O1 antigen elevates colonization by shielding the bacterium from cationic antimicrobial peptides at the pH of the small intestine. These observations provide insights into the biological significance of the V. cholerae O1 serotypes."
+  },
+  {
+    "id": "2458064d669ab2e7",
+    "title": "Oxidative Stress-Responsive Cell Wall Remodeling Depends on Phosphate in Candida albicans",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696271v1?rss=1",
+    "content": "The growing number of patients susceptible to invasive Candida albicans infections has intensified the need for new antifungal targets in pathways essential for fungal growth and pathogenesis. Among these pathways, phosphate homeostasis has emerged as a significant determinant of virulence, yet how phosphate availability shapes cell wall structure in response to host-derived oxidative stress remains unclear. During commensal growth, C. albicans cells typically enjoy phosphate repletion and a neutral redox environment. Transitioning to invade host tissues, they simultaneously experience phosphate deprivation and intense extrinsic oxidative stress. Here, we employ solid-state NMR to render details of cell wall remodeling in response to oxidative stress, in its dependence on phosphate. Phosphate deprived cells remodel the rigid wall core and reduce hydration and polymer mobility in the absence of oxidative stress. During hydrogen peroxide exposure, highly mobile outer polysaccharides are primary interactors. In wildtype cells, some of these polymers are recruited into the rigid core, reinforcing the wall scaffold, whereas phosphate transport mutants fail to undergo this remodeling. These findings establish phosphate acquisition as a component of oxidative defense and link nutrient sensing and -availability to the mechanical resilience of the fungal cell wall, revealing an architectural vulnerability with relevance for antifungal development."
+  },
+  {
+    "id": "8ed5a3dd0d73abbd",
+    "title": "Shifts in the human gut microbiome during cancer chemotherapy are diet-dependent",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696294v1?rss=1",
+    "content": "Numerous studies have implicated both dietary intake and the human gut microbiome in colorectal cancer (CRC) treatment outcomes. However, little is known about how patients adjust their dietary intake during cancer chemotherapy or if these dietary changes contribute to treatment-associated alterations in the gut microbiome. We performed paired longitudinal diet and microbiome analysis during CRC treatment with oral fluoropyrimidines (NCT04054908) and validated key associations using cell culture assays. Diet quality significantly decreased during chemotherapy. Carbohydrate and refined grain intake increased, accompanied by decreased consumption of fats, nuts and seeds, and fat-soluble micronutrients. Multiple individual dietary components were strongly linked to the gut microbiome. Decreases in theobromine intake correlated with decreases in overall microbial diversity and more gastrointestinal toxicities. Diet shifts partly explained changes in bacterial abundance during chemotherapy, including more severe depletion of Faecalibacterium prausnitzii in patients with decreased vitamin K1 intake. Changes in diet were correlated with multiple bacterial gene families involved in micronutrient metabolism and drug sensitivity. Increased copper intake was linked to decreased Fusobacterium nucleatum in patients and inhibited F. nucleatum in cell assays. Together, these data suggest that chemotherapy-related decreases in diet quality and micronutrient intake contribute to changes in gut bacterial diversity, taxonomic composition, and gene abundance. Our approach may generalize to other cancer therapies and emphasizes the need for collecting more robust dietary data in clinical microbiome studies."
+  },
+  {
+    "id": "045e4a9e6e2fb350",
+    "title": "Methanotrophic acetogenesis drives a novel pathway of arsenic mobilization in reducing groundwaters",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696296v1?rss=1",
+    "content": "Geogenic arsenic (As) contamination in groundwater, widely used as drinking water, poses a global health risk, yet the microbial pathways linking electron donor oxidation to the reduction of As-bearing Fe(III) oxyhydroxides remain poorly understood. Here, we deployed Fe(III) (oxyhydr)oxide-coated pumice stones in high-As, high-methane groundwater in Cambodia for 270 days to capture planktonic metal-reducing microbial communities in-situ. These were used to inoculate anaerobic microcosms with methane or volatile fatty acids (VFAs) as electron donors over 200 days. Genome-resolved metagenomics revealed that methane oxidation via reverse methanogenesis led to acetate production, which in turn provided the primary electrons for Fe(III) and As(V) reduction in the microcosms, resulting in As(III) release. Our findings highlight an indirect coupling between methane oxidation and arsenic mobilization, with acetate as the key intermediate. This study offers new insights into the role of methane in subsurface biogeochemical cycling and its implications for arsenic contamination in groundwater systems."
+  },
+  {
+    "id": "815de214b3b767e1",
+    "title": "Coevolutionary constraints of Zika virus nonstructural protein 5 replication and interferon antagonism activities",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696258v1?rss=1",
+    "content": "The flavivirus nonstructural protein 5 performs multiple functions during infection, including RNA replication and type I interferon signaling antagonism. Although flavivirus NS5 proteins inhibit IFN signaling through distinct mechanisms, which suggests evolutionary flexibility, the evolutionary constraints for these activities to coexist within a single protein remain to be determined. Here, we mapped the Zika virus NS5 STAT2 antagonism determinants and compared them with replication constraints defined by deep mutational scanning. Antagonism and replication determinant extensively overlapped, and no single amino acid substitution eliminated antagonism without impairing replication. Resolving these fitness landscapes in parallel identified specific combinations of partially functional substitutions that retained replication capacity while markedly reducing antagonism. These viruses were profoundly attenuated in human STAT2 knock-in mice. Our results uncover a fundamental evolutionary constraint linking replication and immune evasion activities in NS5, highlight that STAT2 antagonism is essential for ZIKV pathogenesis and provide new avenues for attenuated ZIKV vaccines."
+  },
+  {
+    "id": "cdebf6d717f49366",
+    "title": "Does Fermentation Enhance Beverage Safety? Kombucha's Resistance to Microbial Invasion Suggests a Protective Role",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696228v1?rss=1",
+    "content": "Does fermentation enhance the safety of beverages? This study investigates kombucha's resilience to microbial invasion from human hands. Kombucha, an ancient fermented tea, relies on a biofilm known as a symbiotic community of bacteria and yeast (SCOBY) and a starter culture to ferment sweet tea, producing various metabolites including gluconic acid, acetic acid, ethanol, and carbon dioxide. While fermented foods have been historically associated with potential health benefits, direct evidence comparing the prevalence of human pathogens in fermented versus non-fermented beverages has been lacking. To address this, we conducted a citizen science experiment at Arizona State University, introducing swabs from people's palms into both kombucha and a sweet tea control. Over 30 days, we monitored the bacterial and fungal composition using 16S and ITS rRNA sequencing. Our findings reveal that kombucha maintained a relatively stable microbial profile and physical appearance, with a typical SCOBY biofilm developing. In stark contrast, the sweet tea experienced a dramatic change in microbial composition and was visibly compromised by rapidly growing microorganisms. Importantly, this suggests that the complex microbial ecosystem of kombucha can limit the growth of foreign microbes introduced from human hands. Given that human pathogens were absent from the kombucha while present in the tea samples, our results indicate that the antimicrobial properties of fermentation byproducts and the physical barrier of the SCOBY may contribute to this resilience. Further research is warranted to fully elucidate the mechanisms underlying kombucha's resistance to microbial invasion."
+  },
+  {
+    "id": "81450d965c76a639",
+    "title": "The role of type IV pilus in the interaction of Neisseria gonorrhoeae with a corneal epithelium tissue model",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695979v1?rss=1",
+    "content": "Neisseria gonorrhoeae, the causative agent of the sexually transmitted disease gonorrhea, can infect intact corneal epithelium, leading to inflammation, cornea perforation, and blindness. Models for studying this type of gonococcal infection are few and limited. We have tested cornea models based on an immortalized hTCEpi corneal epithelium cell line for infection research using four derivatives of the N. gonorrhoeae MS11 strain that differ in pilus expression. We show that bacterial adherence depends on the functional type IV pilus in the early stages of infection, and that the formation of bacterial microcolonies and biofilms on the model surface leads to tissue destruction. The infection induces a specific cytokine response characterized by an increase in the secretion of IL-8 and TNF-a, but not of IL-6. The testing of trifluoperazine, a drug that induces pilus retraction, on infected corneal tissue models showed that the drug strongly diminished the number of adherent gonococci only when applied simultaneously with bacteria, and not when bacteria were allowed to form microcolonies on the tissue surface. Our work describes, for the first time, hTCEpi-based corneal epithelium tissue models as a useful tool for investigating N. gonorrhoeae infection, with potential for application in high-throughput studies and drug screening."
+  },
+  {
+    "id": "c247c4cdca04dda1",
+    "title": "Comprehensive analysis of draft genomes of two closely related Pseudomonas syringae pv. syringae phylogroup 02b strains infecting Citrus plants",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696067v1?rss=1",
+    "content": "Pseudomonas syringae pv. syringae (Pss) is a cosmopolitan phytopathogen with high genomic plasticity and effector diversity, driving host adaptation and variable virulence. We sequenced, assembled, and annotated the genomes of two Pss strains, LMG 5496 (from Citrus sinensis, Greece, 1962) and EC33 (from C. limon, Tunisia, 2014), to identify genetic determinants underlying their differential virulence. The genomes of LMG 5496 (6.23 Mb; 58.78% GC) and EC33 (5.98 Mb; 58.97% GC) contained 5,563 and 5,312 coding sequences, respectively, and shared highly conserved metabolic and functional profiles. Average Nucleotide Identity (ANI {approx} 100%) and phylogenomic analyses confirmed their close evolutionary relationship within phylogroup 02b. Despite overall similarity, EC33 retained a complete repertoire of Type III secretion system (T3SS) effectors, while LMG 5496 exhibited deletions in two core effectors, correlating with reduced virulence. Functional annotation identified 16 high-confidence T3SS effectors, 12 shared and four strain-specific, reflecting divergent molecular strategies. Enhanced pathogenicity of EC33 was linked to the presence of hypervirulence gene Q4ZSY4 and loss of AvrPph3, suggesting host immune evasion. Both strains possessed largely conserved copper resistance genes, with minor differences in detoxification enzymes. Prophage profiling revealed distinct histories: LMG 5496 carried two intact prophages, EC33 one. This comparative genomic analysis provides new insights into adaptation, phenotypic diversification, and shaping virulence within clonal P. syringae lineages. To our knowledge, this is the first genome-based comparison of Pss strains isolated from Citrus."
+  },
+  {
+    "id": "adee235a50bef287",
+    "title": "Skin microbiome composition and function in the development of atopic diseases during infancy",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696050v1?rss=1",
+    "content": "Background: Atopic dermatitis (AD), food sensitization (FS), and food allergy (FA) frequently co-occur in infancy, but the factors driving distinct atopic phenotypes remain unclear. While FLG null mutations are major genetic risk factors for AD, they explain only a fraction of disease heritability, suggesting a potential role for the skin microbiome. Objective: To determine how early-life skin microbiome composition and its interaction with host genetics contribute to distinct atopic phenotypes in infancy. Methods: We analyzed >1,000 skin swabs from 429 infants in the VITALITY cohort using deep shotgun metagenomic sequencing at 2-3 months (pre-diagnosis) and 12 months (post-diagnosis). Differential abundance, strain-level, and microbial genome-wide association analyses were performed to identify taxonomic and functional features associated with AD, FS, FA, and their co-occurrence, as well as with FLG mutation status. Results: Within AD, microbial signatures differed by co-occurring FA or FS. At 12 months, Staphylococcus epidermidis was enriched in infants with AD alone, whereas infants with AD and FA exhibited decreased Staphylococcus hominis and Lactococcus species, along with increased Dermacoccus nishinomiyaensis and Malassezia slooffiae. At 2-3 months, early skin dysbiosis characterized by enrichment of Staphylococcus species was associated with subsequent development of AD with FS or FA, but not AD alone. Among infants with AD, FLG mutation carriers exhibited additional microbial shifts, including reduced Streptococcus species and increased Malassezia slooffiae. Strain-level analyses revealed mother-infant sharing of skin microbial taxa associated with AD, and microbial genome-wide association analyses identified species-specific genes linked to AD severity. Conclusions: Infant atopic phenotypes are associated with distinct, phenotype-specific features of the skin microbiome that emerge both before and after clinical disease onset. By resolving microbial differences within AD according to allergic co-occurrence, host genetics, and early-life timing, this study highlights the infant skin microbiome as a potential target for early risk stratification."
+  },
+  {
+    "id": "86964c48ff94837a",
+    "title": "Early occurrence of Teratoramularia rumicicola in Japan: re-identification of historic strain GR1 and its pathogenic effects on Rumex species",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696101v1?rss=1",
+    "content": "Teratoramularia rumicicola is a plant pathogenic fungus infecting Rumex species. Although it was described as a new species in 2016, its fundamental characteristics, including historical occurrence, geographic distribution, and host range, remain poorly resolved. In this study, we re-identified strain GR1, which was originally isolated from a diseased Rumex plant in the Bonin (Ogasawara) Islands in 1996 and deposited in a public bioresource center, together with the plant voucher specimen, and evaluated its host range. Colony and conidial morphology and a phylogenetic analysis based on concatenated internal transcribed spacer (ITS) and large subunit (LSU) rDNA sequences identified GR1 as T. rumicicola. Morphological examination of the host plant voucher specimen confirmed Rumex japonicus as the natural host. Pathogenicity assays demonstrated that GR1 infected R. japonicus, reproduced the original disease symptoms, and was successfully re-isolated from diseased tissues, consistent with Koch's postulates. In addition, GR1 caused significant disease and shoot biomass reduction in R. japonicus, R. crispus and R. obtusifolius. The identification of GR1 reveals the presence of T. rumicicola in Japan approximately two decades prior to its formal description, representing the earliest known record of this species. Furthermore, this finding extends its known distribution from temperate regions to the subtropical Bonin Islands, a well-preserved and isolated ecosystem. This study documents for the first time R. japonicus as a natural host of T. rumicicola."
+  },
+  {
+    "id": "3caab68838e4b188",
+    "title": "Plasma Ficolins Enable Liver Macrophages to Capture Blood-Borne Bacteria by Recognizing Capsular Polysaccharides",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696098v1?rss=1",
+    "content": "Ficolins are evolutionarily conserved glycan-binding lectins in plasma or on cell membranes of immune cells, yet their physiological functions remain to be defined. Here we demonstrate that plasma ficolins drives the capture of diverse encapsulated bacteria in the blood circulation by the liver resident macrophages (Kupffer cells). Ficolin-activated immunity in the liver sinusoids provides swift and sterilizing immunity in mice. Mice lacking ficolin-A (the only plasma ficolin) became hypersusceptible to the blood infections of the ficolin-A-recognizable bacterial serotypes. Mechanistically, plasma ficolins activate complement C3 on bacterial surfaces by pattern recognition of acetylated monosaccharides on polysaccharide capsules, and thereby deliver the opsonized bacteria to C3 receptors on Kupffer cells for phagocytic elimination. These findings reveal that plasma ficolins serve as pattern-recognition receptors that are essential for maintaining the bloodstream sterile."
+  },
+  {
+    "id": "0f0ae14ccb8c0a10",
+    "title": "Scaling up by looking closer: extending the range of moss-Nostoc symbioses deeper into central Europe and to new moss hosts in the forest canopy.",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695964v1?rss=1",
+    "content": "Since their re-discovery, Moss-cyanobacterial symbioses are of increasing interest, especially Nostoc-feather-moss symbioses. Efforts to document Nostoc-feather-moss symbioses have historically been centered in Scandinavia and the North American Boreal forest zone. Herein we report the results of several opportunistic surveys investigating the occurrence of Nostoc-moss symbioses in the region of Franconia (Germany). Using culture- and microscopy-based methods, we confirm the occurrence of such symbioses in our region. Two new moss host species of the epiphytic family Orthotrichaceae, Orthotrichum and Zygodon, are also documented, further extending the range of known moss hosts for Nostoc-like organisms outside the traditional feather moss (Hypnales) and Sphagnum clades. Full length 16S sequence alignments placed the moss-associated Nostoc-like organisms throughout our Nostocaceae phylogeny, with no obvious single symbiotic clade. We note the presence of multiple alternate nifH genes within the genomes of single Nostoc-like organisms, possibly enabling diazotrophy under variable ecological conditions. We also present evidence for possible endophytic colonization by cyanobacteria of stems of mosses."
+  },
+  {
+    "id": "bab52b6eb0d07211",
+    "title": "Ancient Roman saltworks drive the present-day microbial community profiles in a coastal aquifer",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.695991v1?rss=1",
+    "content": "Historical salinization from ancient saltworks can leave a long-lasting imprint on coastal aquifers, but its impacts on subsurface microbial communities and ecosystem functioning remain poorly understood. This study examined how legacy salt inputs from Roman saltworks in the Tiber River delta (Fiumicino, Italy) continue to shape present-day groundwater chemistry, microbial community structure, and metabolic potential of the coastal aquifer. We analyzed groundwater samples from non-salinized and salinized units of the same aquifer using integrated hydrogeochemical characterization, flow cytometry, 16S rRNA gene amplicon sequencing, and functional metabolic assays. Salinized samples exhibited elevated chloride, bromide, sodium, and sulfate concentrations, with distinctive ionic ratios (Br/Sr, Cl/K, SO/Ca) indicating dissolution of salt deposits rather than contemporary seawater intrusion. Salinization reduced the microbial diversity and shifted communities from diverse freshwater-adapted families toward an abundant halotolerant assemblage dominated by Campylobacterota (families Sulfurimonadaceae and Sulfurovaceae). Functional annotation suggested broadly conserved potentials for carbon, nitrogen, and sulfur cycling. However, the Biolog assays revealed higher heterotrophic respiration and carbon substrate use but lower functional diversity in salinized samples, with particularly enhanced polymer degradation. Ordination analyses showed a clear separation of aquifer units along the salinization gradient, with coordinated chemical and microbial vectors indicating alternative ecosystem states sustained by millennia-old anthropogenic salt inputs. Our findings showed that ancient saltworks can drive persistent hydrogeochemical alteration, select specialized halotolerant microbiomes, and reconfigure carbon and nutrient processing while maintaining core biogeochemical functions, with critical implications for coastal groundwater management strategies."
+  },
+  {
+    "id": "320578979fabc868",
+    "title": "Characterization of a lethal Crimean-Congo hemorrhagic fever virus infection model in interferon-deficient mice for studies of virus pathogenicity and vaccine efficacy",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696184v1?rss=1",
+    "content": "Crimean-Congo hemorrhagic fever virus (CCHFV) is a highly pathogenic tick-borne virus causing severe human disease and representing a significant public health threat. The absence of licensed vaccines and specific antiviral therapies highlights the need for well-characterized experimental models suitable for studying viral pathogenicity and evaluating medical countermeasures. In this study, we established and characterized an integrated in vitro and in vivo platform for CCHFV research. Virus propagation was optimized by comparing Vero E6 and SW-13 cell lines. SW-13 cells supported efficient CCHFV replication resulting in pronounced virus-induced cytopathic effects, whereas no detectable cytopathic effects were observed in Vero E6 cells. Virus titers determined by cytopathic effect based endpoint dilution and antigen ELISA coincided, supporting the use of SW-13 cells for virus stock preparation. Using virus stocks generated in SW-13 cells, interferon-deficient mice were infected with different doses of CCHFV to assess dose-dependent pathogenicity. Infection resulted in severe disease and high mortality across all tested doses. Based on survival analysis, a dose of 10 TCID50; was selected for further characterization, which revealed progressive weight loss and high viral loads in peripheral organs. Overall, this study establishes a robust IFN knockout mouse model suitable for studying CCHFV pathogenicity, comparing viral genovariants, and evaluating vaccines, antiviral compounds, and neutralizing antibodies."
+  },
+  {
+    "id": "eee0f4679bd0bbc1",
+    "title": "Outer Membrane Vesicles Hijack TIM-1 for Cellular Uptake",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696083v1?rss=1",
+    "content": "Outer membrane vesicles (OMVs) are nanoscale proteoliposomes shed by Gram-negative bacteria that mediate host-pathogen interactions and hold promise as platforms for vaccines and targeted drug delivery. Despite their biological and translational significance, the cellular mechanisms governing OMV entry into host cells remain poorly understood. Here, we demonstrate that E. coli OMVs are internalized by epithelial cells via clathrin-mediated, receptor-dependent endocytosis. Using a high-throughput screen of over 1,500 human single-pass transmembrane proteins, we identify T-cell immunoglobulin and mucin-domain 1 (TIM-1) as a strong OMV-binding receptor. Functional validation revealed that TIM-1 overexpression markedly increased OMV uptake, whereas TIM-1 knockout and antibody-mediated blockade significantly impaired internalization across multiple cell lines. Mechanistic studies demonstrate that TIM-1 binds to lipopolysaccharide (LPS) on the OMV surface via its known phosphatidylserine-binding domain. Uptake of OMVs by TIM-1 triggers proinflammatory cytokine production which can be reduced by preventing this interaction. Additionally, OMVs from multiple bacterial species hijack TIM-1 for entry, making it an intriguing antivirulence strategy. Our findings establish TIM-1 as a critical host receptor mediating OMV uptake and provide a novel approach to modulate vesicle-driven pathogenesis and enhance OMV-based therapies."
+  },
+  {
+    "id": "f48c5064f030a702",
+    "title": "LAP Drives Monocyte-Mediated and Extracellular Translocation of Listeria monocytogenes Across the Placental Barrier",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696054v1?rss=1",
+    "content": "Listeria monocytogenes (Lm) is a major cause of fetal infection, yet the mechanisms by which it traverses the placental barrier remain incompletely defined. We established and validated a physiologically relevant in vitro human placental co-culture barrier model using BeWo trophoblasts and primary human placental vascular endothelial cells (HPVECs), which exhibited robust barrier integrity and organized tight junctions. Using this model, we demonstrate that Lm exploits a Trojan-horse transmigration mechanism via infected monocytes. Lm-infected THP-1 monocytes displayed a ~4.8-fold higher monocyte transmigration and ~8.12-fold greater intracellular bacterial delivery across the placental barrier compared with non-pathogenic Listeria innocua (Li). Monocyte transmigration was associated with claudin-1 and occludin disruption, increased paracellular permeability, and localization of infected monocytes at junctional breach sites. Monocyte-mediated placental traversal required the Lm virulence factors Listeria adhesion protein (LAP) and internalin B (InlB), as lap- and {Delta}inlB mutants exhibited Li-like transmigration and an ~90% reduction in intracellular bacterial delivery, despite normal monocyte uptake. Lm-infected monocytes induced a ~1.86-fold increase in sVCAM-1 secretion, which was LAP- and InlB-dependent, consistent with pro-transmigration endothelial phenotype. In contrast, extracellular traversal required LAP and internalin A (InlA), as lap- and {Delta}inlA mutants exhibited severe defects comparable to Li, whereas {Delta}inlB and {Delta}hly were minimally impaired. Exposure of monocytes to extracellular Lm further amplified transmigration and barrier permeability. Together, these data define two distinct placental invasion routes: a monocyte-associated LAP/InlB-dependent pathway and an extracellular LAP/InlA-dependent pathway, identifying LAP as a critical noncanonical virulence factor in placental infection and mechanisms of vertical transmission."
+  },
+  {
+    "id": "64edbc01791464a7",
+    "title": "Spatiotemporal dynamics in airborne fungi and fungal allergens across the United States",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696190v1?rss=1",
+    "content": "A broad diversity of fungi can be found in the near-surface atmosphere, with both the amounts and types of airborne fungi varying across space and time. However, the specific spatiotemporal patterns in airborne fungal assemblages often remain unquantified. This knowledge gap is particularly notable for allergenic fungi, despite the relevance of airborne fungal allergen exposures to public health. To better understand how airborne fungi, including known allergens, vary across broad spatial and temporal scales, we leveraged a pre-existing air sampling network to obtain bioaerosol samples from 7 national parks representing diverse biome types across the United States, with samples collected from each site every three days over an entire calendar year. We used marker gene DNA sequencing and quantitative PCR to characterize fungal assemblage composition and concentrations, including the concentrations of ten known allergenic genera. As expected, the composition of the airborne fungal assemblages, including the amounts and types of known allergens, varied across biomes. We also observed substantial temporal variation in the total amounts and types of fungi detected, particularly at higher latitude sites. While some of the temporal variation in allergen abundances followed seasonal patterns, we detected pronounced daily and weekly fluctuations in taxon-specific allergen abundances, with higher wind speeds generally associated with higher fungal allergen concentrations. Together, these results expand our understanding of fungal aerobiology across natural ecosystems and demonstrate how combining extensive air-sampling efforts with DNA-based analyses can improve assessments of public health risks associated with exposure to allergenic fungi in outdoor air."
+  },
+  {
+    "id": "16843c25f2b86fac",
+    "title": "Scaling down-Evaluation of start-up and microbial stabilisation dynamics in five parallel laboratory-scale CSTR biogas system",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.23.696146v1?rss=1",
+    "content": "Laboratory-scale continuous stirred tank reactors (CSTRs) are commonly used to study and optimise anaerobic digestion (AD), yet the time required for such systems to become representative of full-scale processes remains unclear. This study investigated start-up and stabilisation dynamics in five parallel 10-L CSTRs operated as direct scale-downs of a full-scale agricultural biogas plant, using identical inoculum, substrate composition, organic loading rate (2.57 g VS/ L day), hydraulic retention time (55 days), and temperature (37 C). The reactors were monitored for 213 days (3.9 HRTs), with one reactor operated for an additional 330 days. All reactors showed highly reproducible behaviour but experienced a transient disturbance, characterised by volatile fatty acid (VFA) accumulation and fluctuating methane production after approximately one HRT. This disturbance was likely caused by a higher effective daily organic loading rate compared to full scale, resulting from once-daily feeding excluding weekends. Increasing the feeding frequency led to VFA degradation and recovery, and stable process performance was achieved after approximately three HRTs, with methane yields of 285 NL CH4/kg VS. The microbial community showed pronounced dynamics during start-up, including major genus-level shifts within Cloacimonadia and a transition in aceticlastic methanogens from Methanothrix to Methanosarcina compared to the full-scale system. Although microbial composition stabilised after about three HRTs, it remained dynamic during prolonged operation and diverged from the original inoculum. These results demonstrate that even direct scale-down reactors require extended stabilisation and may develop microbial communities that differ from the full-scale process, raising questions about their representativeness."
+  },
+  {
+    "id": "086a77b6c952456d",
+    "title": "Uncovering clinically-relevant altered antibiotic responses of Staphylococcus aureus under wound infection-mimetic conditions",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696073v1?rss=1",
+    "content": "Chronic wound infections, most commonly caused by Staphylococcus aureus, affect 1-2% of the world's population and incur direct healthcare costs exceeding $300B per year. Bacterial susceptibility to antibiotics is typically determined by standard in vitro antimicrobial susceptibility testing (AST) using Mueller-Hinton broth (MHB). However, the results from these assays often do not correlate with therapeutic outcomes, potentially because the test conditions do not reflect those at the infection site. We sought to determine the antibiotic susceptibility of methicillin-resistant S. aureus (MRSA) in simulated wound fluid (SWF), a medium resembling wound exudate, compared with MHB. We observed discordance in AST results for representative antibiotics across six of nine antibiotic classes tested in SWF compared with MHB against MRSA USA300. The antibiotic classes showing the most significant discordant AST results included tetracyclines, to which USA300 was more resistant (up to a 128-fold shift), and {beta}-lactams, to which MRSA was unexpectedly more sensitive (up to a 256-fold shift) when tested in SWF. Genome-wide assays and subsequent mechanistic characterizations revealed that the increased resistance to tetracyclines is mediated by MntC, an extracellular binding protein of a manganese ABC transporter system, whereas the drastic sensitization to {beta}-lactams was driven by cell envelope remodelling in SWF. Further, Galleria mellonella incision wound infection results matched the in vitro susceptibility phenotypes of the tetracycline doxycycline and the {beta}-lactam cefuroxime in SWF but not in MHB, suggesting that this host-mimetic medium is a better predictor of MRSA in vivo wound infection therapeutic outcomes. Together, this work addresses the relatively long-recognized shortcomings of the MHB-based standard AST by uncovering alterations in MRSA antibiotic susceptibility in wound exudate-like fluid relative to MHB. It uncovers potentially clinically relevant antibiotic response determinants, identifying MntC as a potential new target for adjuvant therapy. Our results may also guide improved antibiotic therapeutic choices for drug-resistant MRSA wound infections."
+  },
+  {
+    "id": "f1a1a845991fe00c",
+    "title": "Antifungal susceptibility profile of clinically relevant species of the genus Sporothrix: establishment of Epidemiological Cutoff Values (ECVs) according to CLSI broth microdilution methodology",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.19.695392v1?rss=1",
+    "content": "Sporotrichosis is a globally distributed subcutaneous mycosis caused mainly by Sporothrix brasiliensis, S. schenckii, and S. globosa. Cat-transmitted sporotrichosis, primarily caused by S. brasiliensis in South America and to a lesser extent by S. schenckii in Southeast Asia, is emerging as a significant public health concern, due its outbreak potential. Itraconazole is the first-choice drug for treatment of human and cats, but reduced susceptibility has been reported based on previously proposed epidemiological cut-off values (ECVs). To support resistance surveillance, we aimed to establish CLSI-endorsed ECVs for these clinically relevant Sporothrix species. A total of 3,588 minimum inhibitory concentration (MIC) values for seven antifungal agents (amphotericin B, itraconazole, posaconazole, voriconazole, isavuconazole, olorofim, and terbinafine) were obtained from 19 international laboratories. Four of seven antifungals met the CLSI M57 guidelines criteria to determine the ECV. Established ECVs for amphotericin B were found to be high with 8 g/mL for S. brasiliensis and S. globosa, and 4 g/mL for S. schenckii. Itraconazole ECVs were 4 g/mL for S. brasiliensis and S. schenckii. Posaconazole ECVs were 4 g/mL for all three species (tentative for S. globosa), while the terbinafine ECV for S. brasiliensis was 0.12 g/mL. Olorofim demonstrated good in vitro activity, particularly against S. brasiliensis. Overall, this study establishes validated ECVs for key antifungals against Sporothrix species and identifies a low prevalence of non-wild type (NWT) isolates, supporting ongoing antifungal resistance monitoring."
+  },
+  {
+    "id": "8567c96cae8ad09f",
+    "title": "Identification of DksA as a novel pro-inflammatory mediator of Pseudomonas aeruginosa under conditions mimicking chronic cystic fibrosis lung infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.21.695867v1?rss=1",
+    "content": "Chronic infection with Pseudomonas aeruginosa is a major driver of airway inflammation, which plays a central role in the progression of cystic fibrosis (CF) lung disease. During long-term colonization, P. aeruginosa adapts to the CF lung by downregulating virulence factors and adopting a biofilm-associated, mucoid lifestyle. Despite the expected reduction in immune activation due to these adaptations, excessive inflammation persists, a paradox that remains poorly understood. Our objective was to identify novel bacterial mediators sustaining persistent inflammation by P. aeruginosa in the CF lung. To this end, we analyzed clinical P. aeruginosa CF isolates, cultured them in synthetic CF sputum medium, and exposed 3D lung epithelial cell cultures to the resulting cell-free supernatants. There was considerable variability in pro-inflammatory activity among the isolates, with a subset of the isolates inducing strong IL-8 secretion by the 3D cells despite low production of known virulence factors. Comparative proteomics analysis of the cell-free supernatants of pro- and anti-inflammatory isolates revealed several mediators not previously linked to inflammation. Thirteen of these candidate pro-inflammatory mediators were selected for further analysis. Using P. aeruginosa transposon mutants lacking the respective mediators, DksA (a transcription factor) was confirmed as an immunomodulatory mediator in the 3D lung model. Finally, analysis of existing transcriptomes of P. aeruginosa in CF sputum, revealed that dksA was found to be one of the most strongly expressed genes in this patient population, highlighting the relevance of our findings. In conclusion, we identified a novel P. aeruginosa mediator that may contribute to CF airway inflammation."
+  },
+  {
+    "id": "4413f669708452bf",
+    "title": "Nutrient-limited conditions reveal the activity of a minor groove binder, MGB-BP-3, against Escherichia coli",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695926v1?rss=1",
+    "content": "Background: Antimicrobial resistance demands new antibiotics, but conventional screening in nutrient-rich media often fails to predict in vivo efficacy, especially against Gram-negative bacteria. Minor groove binders (MGB), such as MGB-BP-3, are a promising new antibacterial with potent activity against Gram-positive bacteria but thought to have limited potency against Gram-negative bacteria. Objectives: This study evaluated the antibacterial activity of MGB-BP-3 under nutrient-limited, physiologically relevant conditions to better mimic in vivo environments. Methods: Minimum inhibitory concentrations (MICs) were determined against a panel of ESKAPEE pathogens in both rich (Cation Adjusted Mueller-Hinton Broth, CA-MHB) and nutrient-limited media (Roswell Park Memorial Institute, RPMI-1640 + 10% Luria-Bertani, LB). Synergy with efflux pump inhibitors and membrane permeabilizers was evaluated via checkerboard assays. Permeability was assessed using a fluorescent DNA-binding cell permeant (Hoechst 33342) accumulation assay. MICs were determined in the presence of different concentrations of ions, using both wild-type and efflux-compromised strains. In vivo efficacy was assessed using the Galleria mellonella infection model. Results: The activity of MGB-BP-3 against Gram-negative bacteria was improved by shifting the medium from rich to nutrient-limited conditions. Specifically, it showed potent activity against E. coli in nutrient-limited media (MIC 3.1 M) but was inactive in rich media (MIC 700 M). Synergy with efflux inhibitors occurred mainly in rich media, indicating barriers to intracellular accumulation were not present in nutrient-limited conditions. Increased permeability correlated with enhanced susceptibility and efflux-deficient strains were more susceptible, confirming the role of efflux pumps in resistance. MGB-BP-3 provided dose-dependent protection in G. mellonella larvae infected with E. coli or S. aureus. For example, at concentrations of 12.5 M and 100 M, MGB-BP-3 was able to protect the larvae by more than 70% over 5 days of treatment, respectively. Conclusions: Nutrient-limited media better reveal MGB-BP-3's activity against Gram-negative bacteria and align with in vivo efficacy, highlighting the need for host-mimicking conditions in antibiotic screening."
+  },
+  {
+    "id": "e32e4267558cc298",
+    "title": "Organismal robustness and resilience influence the ability to cope with cold snaps",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1?rss=1",
+    "content": "Coping with challenges often requires maintaining performance during poor conditions (robustness) and reestablishing normal performance following disturbance (resilience). Trade-offs between performance under normal and challenging conditions may generate variation in stress coping capacity, but there is little empirical data from wild populations. We studied robustness and resilience to temperature in tree swallows (Tachycineta bicolor) using a 39-year dataset that included >75,000 hours of behavioral data. Cold snaps had profound and sustained impacts on fitness; effects on nestlings were mediated by the behavioral robustness and resilience of parents. Parental robustness was predicted by developmental cold exposure and current endocrine state. As expected, trade-offs between peak performance and behavioral robustness influenced susceptibility. Selection on trade-offs may generate population differences in vulnerability to changing temperature regimes."
+  },
+  {
+    "id": "4c039aa9846f45dc",
+    "title": "The realized host specificity of Leptopilina japonica and Ganaspis kimorum, adventive larval parasitoids of the invasive Drosophila suzukii",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696016v1?rss=1",
+    "content": "The non-native larval parasitoid wasps Leptopilina japonica and Ganaspis kimorum (Hymenoptera: Figitidae), which attack larvae of the invasive pest Drosophila suzukii (Matsumura) (Diptera: Drosophilidae), were unintentionally introduced to the Pacific Northwest of North America between 10 and 15 years ago, and are now well-established. Previous laboratory studies conducted to assess the ecological risk of classical biological control introductions suggested that G. kimorum is highly host-specific, whereas L. japonica can develop in several other drosophilid species. Information on realized host use of the parasitoids under field conditions in the context of host-parasitoid food webs in their non-native range is limited. A two-year field study in coastal British Columbia, Canada was conducted, using complementary sampling methods to document host-parasitoid associations and quantify parasitoid specificity with respect to drosophilid communities inhabiting ripe and rotting fruit. Consistent with previous laboratory findings, G. kimorum was reared exclusively from D. suzukii, while L. japonica emerged primarily from D. suzukii but also from D. melanogaster and, less frequently, from members of the D. obscura species group. Leptopilina japonica shared some host species with the resident parasitoid species L. heterotoma and Asobara cf. rufescens. A particularly striking result was the extent to which almost all drosophilid and parasitoid taxa in this study's host-parasitoid trophic webs were non-native, complicating the interpretation of non-target ecological effects of L. japonica. These results provide field-based evidence of realized host use by these two non-native larval parasitoids of D. suzukii that can inform their future use in classical and augmentative biological control programs."
+  },
+  {
+    "id": "c66565310d609cc2",
+    "title": "An introduced parasitoid facilitates host range expansion of a resident parasitoid",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.696021v1?rss=1",
+    "content": "Invasive species can cause maladaptive behaviours in native consumers, with evolution of behavioural or physiological traits thought to be the main way out of these so-called 'evolutionary traps'. However, shorter-term ecological processes resulting from biological invasions could provide other ways to escape evolutionary traps. Asobara cf. rufescens, a resident (i.e., possibly native or previously introduced) parasitoid of drosophilid fly larvae in North America, can rarely produce offspring on the invasive fruit pest Drosophila suzukii in the laboratory, but in often emerges from field-collected D. suzukii. We hypothesized that the successful development of A. cf. rufescens in D. suzukii in the field is facilitated by Leptopilina japonica, a recently introduced parasitoid of D. suzukii. In laboratory experiments, we found that A. cf. rufescens had more than 30-fold higher offspring emergence from D. suzukii when L. japonica was also present. This facilitation occurred most frequently when A. cf. rufescens parasitized D. suzukii after L. japonica, possibly because parasitism by L. japonica destroyed the hosts' cellular immunity that would otherwise prevent A. cf. rufescens development. The recent arrival of L. japonica may have partially rescued A. cf. rufescens from the evolutionary trap set by D. suzukii and, consequently, resulted in an expansion of its host range."
+  },
+  {
+    "id": "d1d3b5595a810dca",
+    "title": "Foraging egg parasitoids benefit from the presence of potential competitors",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695894v1?rss=1",
+    "content": "Competition is generally considered a negative interaction that lowers the fitness of individuals. Studies of competition and fitness traits in parasitoids have primarily focused on interference competition, with less attention paid to parasitoids under exploitative competition. Theoretical studies predict that interference competition will decrease the resource utilisation of parasitoids, while exploitative competition will not. In our study, we investigated the impact of intraspecific exploitative competition among parasitoids on fitness traits, including resource utilisation, the percentage of offspring that emerged from parasitised eggs, and the percentage of female offspring produced from parasitised eggs. We investigated whether these fitness traits were influenced by the presence of conspecific foraging females, as well as by parasitoid and resource densities. Since we were studying the effect of exploitative competition, we used Trichogramma chilonis, a non-aggressive egg parasitoid. Corcyra cephalonica, a stored grain pest, was used as the host. We found that T. chilonis resource utilisation increased in the presence of conspecifics. However, the density of those conspecifics and the resource density did not affect resource utilisation. The presence of conspecific foraging females did not affect the rate of offspring survival. However, at a lower resource density, offspring survival was higher than under resource-abundant conditions. We explored this counterintuitive pattern using a simple mathematical model, which shows that superparasitism, occurring at high parasitoid density, can lead to high emergence. This is because, given only some progeny survive, the chance of parasitoid emergence increases with the number of eggs laid in the host. The secondary sex ratio of the progeny was unaffected by the presence of conspecifics or by parasitoid or resource densities. We conclude that for T. chilonis, the presence of competitors has a positive effect. Its high performance under competitive conditions may contribute to its efficiency as a biological control agent."
+  },
+  {
+    "id": "ad9b135a83bb4f0b",
+    "title": "mMap: a comprehensive and continuously updated species distribution database facilitating the understanding of mosquito diversity and distribution patterns",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695893v1?rss=1",
+    "content": "Mosquitoes, as vectors of deadly diseases like malaria and dengue, exhibit complex and dynamic global distribution patterns influenced by climate change and human activity. However, gaps in species-level data and biases in existing databases hinder accurate risk assessments. Here, we present mMap (v1.01), a comprehensive and curated mosquito distribution database integrating multi-source records from literature (36,242 entries across 1,809 studies), museum collections, and field reports in 6 languages. Systematic data harmonization and validation workflows address taxonomic and spatial uncertainties, enabling family-level analyses previously constrained by fragmented data. Our results reveal significant range expansions for 28 invasive species (e.g., Aedes albopictus in Europe) and corrections to historical distributions (e.g., Ae. vexans in 22 new countries). The interactive mMap platform (accessible at https://mos-map.vercel.app/) provides open-access tools for visualizing spatial-temporal trends, automated SDM forecasting, and expert-curated species profiles. By unifying dispersed data into a scalable framework, mMap advances research on mosquito biodiversity, invasion ecology, and disease risk mapping, offering a critical resource for global health strategies in an era of rapid environmental change."
+  },
+  {
+    "id": "51e3c2fa733b9fc1",
+    "title": "Temporal structure of chemical stress controls single-cell inhibition and recovery in photosynthetic microorganisms",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695903v1?rss=1",
+    "content": "Although fluctuating conditions are a hallmark of microbial habitats, how the timing of chemical stress influences single-cell inhibition and recovery is not well resolved. Using a microfluidic platform, we continuously tracked photosynthetic performance in thousands of individual cells of a coral-associated microalga (Symbiodiniaceae sp.) exposed to identical cumulative doses of the photosystem II inhibitor diuron delivered either as constant or fluctuating profiles. Fluctuating exposure produced stronger early inhibition than constant exposure, but as concentrations declined it enabled partial recovery that did not occur under time-averaged constant conditions. These dynamics revealed distinct response subpopulations that differed in both the magnitude and timing of inhibition, including groups that regained activity exclusively under fluctuating stress. Quantifying per-cell decline kinetics showed that fluctuating exposure synchronizes the onset of inhibition across cells, creating a narrow temporal window in which a subset of cells can recover once stress levels fall, whereas constant exposure yields more heterogeneous but uniformly declining trajectories. These results demonstrate that stress timing, not cumulative dose alone, governs whether photosynthetic inhibition is reversible at the single-cell level. More broadly, our findings illustrate how temporal variability and intrinsic phenotypic heterogeneity jointly govern cellular function, highlighting stress timing as an important and often overlooked axis shaping microbial performance in dynamic environments."
+  },
+  {
+    "id": "49d01a03715f5d66",
+    "title": "Malaria entomological surveillance in Kinshasa Province: A longitudinal study",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695884v1?rss=1",
+    "content": "Background: Malaria remains a major public health challenge in the Democratic Republic of Congo. To address the lack of contemporary entomological data, particularly in Kinshasa Province, this four-year study characterized key entomological parameters, including mosquito species composition, abundance, biting behavior, and insecticide resistance. Methods: We conducted a prospective observational cohort study (2018-2022) in three health areas representing rural, peri-urban, and urban settings in Kinshasa Province. Adult Anopheles mosquitoes were sampled using CDC miniature light traps and pyrethrum spray catches. Insecticide susceptibility of adult females was assessed using WHO tube tests, and a generalized estimating equations model evaluated the effects of year, season, site, sampling location, and collection time on mosquito abundance. Results: A total of 1,449 Anopheles mosquitoes were collected: 50% in the rural health area of Bu, 49% in peri-urban Kimpoko, and 1% in urban La Voix du Peuple. The species captured were An. gambiae s.l. (85%), An. paludis (11%), and An. funestus (4%). An. gambiae s.l. was significantly more abundant indoors and after 10 PM. The overall entomological inoculation rate (EIR) was 4.6 infective bites per person per year, with An. gambiae s.l. contributing the highest rate. An. paludis showed a localized transmission peak in Impuru during the rainy season (EIR = 8.87). Resistance to DDT and pyrethroids was widespread, with an estimated 0.94 frequency of the kdr L1014F mutation. Bendiocarb and pirimiphos-methyl remained effective. Conclusions: This study confirms that An. gambiae s.l. remains the predominant malaria vector and plays a central role in transmission in Kinshasa. However, an emerging role of An. paludis in rural settings was observed. These findings underscore the need for vector control strategies tailored to diverse ecological settings. Continued entomological surveillance will be essential to track biting behavior and resistance patterns and ensure that interventions remain effective over time."
+  },
+  {
+    "id": "46f2c31d7f5697ae",
+    "title": "Real-time invasion dynamics reveal the drivers of predator spread and prey extirpation on an island",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695872v1?rss=1",
+    "content": "Non-native predators profoundly restructure island biological communities worldwide, yet their management is hindered by limited empirical understanding of the dynamics of predator spread and prey extirpation. Here, we integrate two decades of field surveys, citizen-science records, and standardized transects to reconstruct the invasion of the snake Hemorrhois hippocrepis on Ibiza and its impact on the endangered, endemic lizard Podarcis pityusensis. We found a marked acceleration in range expansion despite intensified culling, evidence for the transition from establishment to spread stages of this invasion. Spatially explicit invasion maps combined with citizen reports of lizard disappearance show a non-linear acceleration in the interval from predator arrival to local prey extirpation, shortening from over ten years in early-invaded areas to three years in recently invaded areas. The observed patterns are consistent with density-dependent predator pressure, which generates a wave-like, rapidly advancing invasion front evidenced by declining snake body condition and reduced efficiency of snake captures in long-invaded areas. Our study empirically confirms theoretical predictions of nonlinear spread and impact dynamics and highlights how citizen science can crucially help documenting early invasion stages. Effectively incorporating the non-linear dynamics of invasions into conservation strategies is urgent to mitigate invasion-driven transformations of fragile island ecosystems worldwide."
+  },
+  {
+    "id": "c4a7a613e809419b",
+    "title": "Limitations of non-mechanistic methods for characterizing pathogen-pathogen interactions: A simulation study",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.22.695879v1?rss=1",
+    "content": "Pathogen-pathogen interactions occur when infection with one pathogen influences ones chance of infection or disease due to another. Increasingly, evidence suggests that interactions are a common feature of infectious disease epidemiology. However, due to both the nonlinearities and stochasticity inherent to infectious disease transmission, and the frequency of confounding (e.g., by shared seasonal forcing), purely statistical methods for characterizing interactions may be prone to failure. Here, we perform a simulation study to evaluate several non-mechanistic approaches for inferring causality from time series data: generalized additive models (GAMs), Granger causality, transfer entropy, and convergent cross-mapping (CCM). Specifically, we use a two-pathogen mechanistic transmission model, calibrated to produce dynamics resembling outbreaks of influenza and respiratory syncytial virus (RSV), to generate synthetic datasets with a range of values for interaction strength and duration. We then apply each method to all synthetic datasets. We find that Granger causality, transfer entropy, and CCM all fail to consistently infer whether data contain signal of an interaction; in particular, methods tend to incorrectly identify interactions where none are modeled (average sensitivity = 80.6%, 92.1%, 72.1%, respectively; average specificity = 31.0%, 33.3%, 33.1%). Furthermore, we find little to no association between point estimates from each method and true interaction strength. In contrast, GAMs infer the existence of interactions more accurately than the other methods (sensitivity = 85.2%, specificity = 72.5%), and consistently yield larger point estimates for stronger interactions. However, their practical utility is limited by an inability to evaluate interaction asymmetry (i.e., whether the effect of pathogen A on pathogen B is identical to that of B on A). We conclude that accurately and comprehensively characterizing pathogen-pathogen interactions based on outbreak data remains a significant challenge. For this reason, it is critical that any proposed methods be rigorously evaluated before being used to draw conclusions about interactions."
   }
 ]
